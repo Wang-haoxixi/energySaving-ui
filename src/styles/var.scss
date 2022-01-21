@@ -1,0 +1,61 @@
+/* 改变主题色变量 */
+// $--color-primary: #f74437;
+$--color-primary: #46B28B;
+//辅助色次要按钮、提示颜色
+$--color-secondary: #2f80ff;
+$--color-third: #3cd489;
+$--color-fourth: #fe9b00;
+$--color-fifth: #EDF7F3;
+// 弃用
+$--color-border: rgba(247, 68, 55, 0.1);
+// 字体色 js中的颜色用 rgb
+// rgb(48, 48, 49)
+$--color-text-primary: #303031;
+// rgb(102, 103, 105)
+$--color-text-regular: #666769;
+// rgb(145, 147, 151)
+$--color-text-secondary: #919397;
+// 用于时间输入提示等
+$--color-input-regular: #babec0;
+// 简化所有颜色主题变量?
+// 次主色
+$--second-color-primary: $--color-primary;
+// 边框色
+$--border-color: #eff0f1;
+// 底色，提示底色1
+$--background-color: #f4f5f6;
+
+// 基础圆角
+$--border-radius-base: 10px;
+// 小圆角?
+$--small-border-radius: 5px;
+// 大圆角?
+$--large-border-radius: 15px;
+//菜单底色，提示底色2
+$--custom-menu-background-color: rgba(
+  $color: $--color-primary,
+  $alpha: 0.1,
+);
+//提示底色3，4
+$--secondary-background-color: rgba(
+  $color: $--color-third,
+  $alpha: 0.1,
+);
+$--third-background-color: rgba(
+  $color: $--color-fourth,
+  $alpha: 0.1,
+);
+
+$--fifth-background-color: rgba(
+  $color: $--color-secondary,
+  $alpha: 0.1,
+);
+$--sixth-background-color: rgba(
+  $color: #24a5ff,
+  $alpha: 0.1,
+);
+
+$--input-height: 42px;
+$--input-indialog-height: 36px;
+
+$--button-font-size: 14px;

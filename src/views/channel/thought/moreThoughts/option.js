@@ -1,0 +1,58 @@
+export const initFormData = () => {
+  return {
+    address: "",
+    advantage: "",
+    age: 0,
+    appWay: "",
+    arrive: "",
+    attach: [],
+    attachFile: [],
+    avatar: "",
+    bear: "",
+    birthday: "",
+    blacklistArea: "",
+    blacklistReasons: "",
+    cities: [],
+    eduSituation: [],
+    education: "",
+    email: "",
+    health: "",
+    height: "",
+    hobbies: "",
+    honor: "",
+    id: "",
+    marriage: "",
+    name: "",
+    nation: "",
+    phone: "",
+    politics: "",
+    position: [],
+    positionId: 0,
+    positionName: "",
+    referrer: "",
+    relation: "",
+    result: "",
+    salary: "",
+    sex: 1,
+    source: "",
+    title: "",
+    trainingSituation: [],
+    university: "",
+    userCert: [],
+    weight: "",
+    workExperience: [],
+    workPlace: "",
+  };
+};
+
+export const rules = {
+  name: [
+    { required: true, message: "必填", trigger: "blur" },
+  ],
+  phone: [
+    { required: true, message: "必填", trigger: "blur" },
+  ],
+  position: [
+    { required: true, message: "必填", trigger: "change" },
+  ],
+};

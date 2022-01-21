@@ -1,0 +1,57 @@
+export const mockData = {
+  code: 0,
+  data: {
+    records: [{
+      id: 1,
+      commonDataMetaName: '扶贫',
+      num: '05',
+      content: '精准扶贫',
+    }, {
+      id: 2,
+      commonDataMetaName: '复工复产',
+      num: '06',
+      content: '复工复产',
+    }, {
+      id: 3,
+      commonDataMetaName: '疫情控制',
+      num: '07',
+      content: '疫情控制',
+    }, {
+      id: 4,
+      commonDataMetaName: '信息公开',
+      num: '07',
+      content: '信息公开',
+    }, {
+      id: 5,
+      commonDataMetaName: '自然灾害捐赠',
+      num: '07',
+      content: '自然灾害捐赠',
+    }, {
+      id: 6,
+      commonDataMetaName: '危险化学品登记',
+      num: '07',
+      content: '危险化学品登记',
+    }, {
+      id: 7,
+      commonDataMetaName: '参与生产安全事故调查',
+      num: '07',
+      content: '参与生产安全事故调查',
+    }, {
+      id: 8,
+      commonDataMetaName: '监督检查',
+      num: '07',
+      content: '监督检查',
+    }, {
+      id: 9,
+      commonDataMetaName: '许可证',
+      num: '07',
+      content: '许可证',
+    }],
+    total: 3,
+    size: 10,
+    current: 1,
+    orders: [],
+    searchCount: true,
+    pages: 1,
+  },
+};

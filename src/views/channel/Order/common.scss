@@ -1,0 +1,20 @@
+.order-background {
+  background-color: $--background-color;
+  .order-container {
+    width: 1200px;
+    margin: 20px auto 30px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: $--border-radius-base;
+    h2 {
+      margin-bottom: 60px;
+      font-size: 16px;
+      font-family: "微软雅黑";
+      color: $--color-text-primary;
+    }
+  }
+  .submit-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+}

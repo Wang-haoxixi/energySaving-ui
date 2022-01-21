@@ -1,0 +1,21 @@
+.message {
+  width: 100%;
+  background-color: $--background-color;
+  border-bottom-color: $--border-color; /*为了给after伪元素自动继承*/
+  color: $--color-text-regular;
+  font-size: 12px;
+  font-family: Arial;
+  line-height: 18px;
+  padding: 10px 20px 10px 20px;
+  box-sizing: border-box;
+  border-radius: $--border-radius-base;
+  position: relative;
+  word-break: break-all;
+}
+.time-dividing {
+  div {
+    background: none;
+    font-size: 12px;
+    color: $--color-text-secondary;
+  }
+}

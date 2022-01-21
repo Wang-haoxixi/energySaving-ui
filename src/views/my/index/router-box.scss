@@ -1,0 +1,12 @@
+.router-box {
+  // padding: 20px 20px;
+  background-color: #fff;
+  // border: 1px solid $--border-color;
+  border-radius: 10px;
+}
+.router-box ::v-deep {
+  .wrapper {
+    margin: 0;
+    padding: 0;
+  }
+}

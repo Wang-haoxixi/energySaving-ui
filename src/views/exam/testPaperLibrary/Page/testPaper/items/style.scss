@@ -1,0 +1,37 @@
+.itemValue ::v-deep {
+  .el-radio__label {
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    word-break: break-all;
+    white-space: pre-wrap !important;
+    width: 100%;
+    padding-right: 150px;
+    box-sizing: border-box;
+  }
+  .el-radio {
+    height: auto !important;
+    margin-bottom: 10px;
+  }
+  .el-checkbox__input {
+    vertical-align: sub;
+    height: 17px;
+  }
+  .el-checkbox__label {
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    word-break: break-all;
+    line-height: 42px;
+    white-space: pre-wrap !important;
+    width: 100%;
+    padding-right: 150px;
+    box-sizing: border-box;
+  }
+  .el-checkbox {
+    display: flex;
+    align-items: center;
+    height: auto !important;
+    margin-bottom: 10px;
+  }
+}

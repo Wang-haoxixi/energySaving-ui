@@ -1,0 +1,12 @@
+export const SET_MENU = "SET_MENU";
+export const SET_ADD_ROUTERS = "SET_ADD_ROUTERS";
+export const SET_COLLAPSE = "SET_COLLAPSE";
+export const SET_FIXED_CLOSE = "SET_FIXED_CLOSE";
+export const SET_DICT_GROUP = "SET_DICT_GROUP";
+export const SET_TABLE_SIZE = "SET_TABLE_SIZE";
+export const SET_CITY_TREE = "SET_CITY_TREE";
+export const SET_INDUSTRY_TREE = "SET_INDUSTRY_TREE";
+export const SET_POSITION_TREE = "SET_POSITION_TREE";
+export const SET_PROFESSION_TREE = "SET_PROFESSION_TREE";
+export const SET_REDIRECT = "SET_REDIRECT";
+export const SET_WX_REDIRECT = "SET_WX_REDIRECT";

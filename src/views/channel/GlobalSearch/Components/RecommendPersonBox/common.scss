@@ -1,0 +1,198 @@
+.tab-content {
+  display: grid;
+  overflow: hidden;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 30px;
+  height: 400px;
+
+  .item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    width: 313px;
+    height: 118px;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid $--border-color;
+    transition: all 0.5s;
+    cursor: pointer;
+    box-sizing: border-box;
+
+    &:hover {
+      transform: translateY(5px);
+      box-shadow: 0 2px 12px 0 $--background-color;
+    }
+
+    &:hover .name {
+      color: $--color-primary;
+    }
+
+    &:hover .image {
+      opacity: 0.7;
+    }
+
+    .image {
+      flex: 0 0 80px;
+      margin-right: 15px;
+      width: 80px;
+      min-width: 80px;
+      height: 80px;
+      border-radius: 10px;
+      border: 1px solid $--border-color;
+      overflow: hidden;
+    }
+
+    .txt {
+      width: 180px;
+    }
+
+    .top-txt {
+      display: flex;
+      align-items: center;
+      font-family: Microsoft YaHei;
+      color: #303031;
+
+      .tags {
+        margin-left: 10px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+
+        span {
+          display: none;
+          margin-right: 5px;
+          margin-bottom: 3px;
+          padding: 0;
+          width: 32px;
+          height: 20px;
+          font-size: 12px;
+          text-align: center;
+          line-height: 20px;
+          vertical-align: middle;
+          border-radius: 5px;
+          border: 1px solid $--border-color;
+          &:last-child {
+            margin-right: 0;
+          }
+          &:nth-child(-n + 1) {
+            display: inline-block;
+          }
+        }
+        .red {
+          background: $--custom-menu-background-color;
+          color: $--color-primary;
+          border-color: $--custom-menu-background-color;
+        }
+
+        .blue {
+          background: $--fifth-background-color;
+          color: $--color-secondary;
+          border-color: $--fifth-background-color;
+        }
+
+        .blue2 {
+          background: $--sixth-background-color;
+          color: #24a5ff;
+          border-color: $--sixth-background-color;
+        }
+
+        .green {
+          color: $--color-third;
+          background-color: $--secondary-background-color;
+          border-color: $--secondary-background-color;
+        }
+      }
+    }
+
+    .name {
+      display: block;
+      margin-bottom: 3px;
+      min-width: 24px;
+      max-width: 120px;
+      font-size: 16px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      transition: all 0.5s;
+    }
+
+    .from {
+      margin-top: 5px;
+      font-size: 14px;
+      font-weight: 300;
+      color: $--color-text-regular;
+
+      div {
+        display: none;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      :nth-child(-n + 2) {
+        display: block;
+        margin-top: 5px;
+        font-weight: 400;
+      }
+    }
+
+    .tags {
+      color: $--color-text-secondary;
+    }
+
+    .tags-box {
+      display: flex;
+      align-items: center;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-top: 8px;
+      font-size: 14px;
+      color: $--color-text-secondary;
+
+      span {
+        position: relative;
+        display: inline-block;
+        margin: 0 5px 5px;
+        height: 28px;
+        line-height: 28px;
+        font-size: 14px;
+        color: $--color-text-secondary;
+
+        &:first-child {
+          margin-left: 0;
+        }
+
+        &:last-child {
+          margin-right: 0;
+
+          &::before {
+            display: none;
+          }
+        }
+
+        &::before {
+          position: absolute;
+          content: "";
+          top: 14px;
+          right: -12px;
+          width: 15px;
+          height: 1px;
+          background-color: $--color-input-regular;
+          transform: rotate(115deg);
+        }
+      }
+    }
+  }
+}
+
+.image :v-deep .iep-img {
+  border-radius: 50%;
+}

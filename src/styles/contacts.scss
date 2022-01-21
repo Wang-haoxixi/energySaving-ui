@@ -1,0 +1,96 @@
+.group {
+  margin-top: 5px;
+  .item-box {
+    margin: 0 10px;
+  }
+  .title {
+    font-family: "微软雅黑";
+    color: $--color-text-primary;
+    margin-bottom: 10px;
+    background-color: rgba(244, 245, 246, 1);
+    padding: 10px 8px;
+    font-size: 15px;
+    border-radius: $--border-radius-base;
+    cursor: pointer;
+  }
+
+  .sub-tree-txt {
+    width: calc(100% - 24px);
+    display: flex;
+    justify-content: space-between;
+
+    .sub-tree-txt-title {
+      width: calc(100% - 40px);
+      display: flex;
+
+      .sub-tree-txt-name {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        word-break: break-all;
+      }
+    }
+
+    .button {
+      width: 30px;
+      color: #f74437;
+    }
+  }
+}
+
+.group ::v-deep .el-tree-node__children .el-tree-node__expand-icon {
+  display: none;
+}
+
+.group ::v-deep .el-tree-node {
+  margin: 0 10px;
+  padding: 5px 0;
+}
+
+.group ::v-deep .el-tree-node__children {
+  margin: 5px 0;
+
+  .el-tree-node__content {
+    &:hover .name {
+      color: $--color-primary;
+    }
+  }
+
+  .el-tree-node.is-current {
+    .el-tree-node__content .name {
+      color: #c0c4cc;
+    }
+  }
+}
+
+.group ::v-deep .el-tree-node__content {
+  display: flex;
+  align-items: center;
+  height: auto;
+  font-size: 14px;
+  color: $--color-text-regular;
+  background: none;
+}
+
+.group ::v-deep .el-tree-node__content .sub-menu {
+  width: 100%;
+}
+
+.group ::v-deep .el-tree-node__content .sub-menu-txt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.group ::v-deep .el-tree-node__content .sub-menu-txt-left {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 80%;
+}
+
+.group ::v-deep .is-expanded > .el-tree-node__content {
+  color: $--color-primary;
+}

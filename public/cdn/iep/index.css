@@ -1,0 +1,98 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+@keyframes bossLoading {
+  0% {
+    transform: translateZ(0);
+  }
+
+  50% {
+    transform: translate3d(0, -8px, 0);
+  }
+}
+
+#app .iep-data-tips {
+  height: 100%;
+}
+
+.iep-data-tips {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: calc(100vh - 132px);
+  min-height: 340px;
+  position: relative;
+  background: #fff;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
+
+.iep-loading-sub-info {
+  color: #919397;
+  font-size: 16px;
+}
+
+.iep-page-loading .gray {
+  font-size: 16px;
+  color: #919397;
+}
+
+.iep-data-tips .iep-page-loading {
+  white-space: nowrap;
+}
+
+.iep-page-loading [class^="component-"] {
+  display: inline-block;
+  font-weight: 600;
+  width: 30px;
+  height: 42px;
+  color: #eceef2;
+  font-size: 30px;
+  vertical-align: middle;
+  animation: bossLoading 0.6s linear infinite alternate;
+}
+
+.iep-page-loading .component {
+  display: inline-block;
+  width: 10px;
+  height: 42px;
+}
+
+.iep-page-loading .component-1 {
+  animation-delay: 0s;
+}
+
+.iep-page-loading .component-2 {
+  animation-delay: 0.1s;
+}
+
+.iep-page-loading .component-3 {
+  animation-delay: 0.2s;
+}
+
+.iep-page-loading .component-4 {
+  animation-delay: 0.3s;
+}
+
+.iep-page-loading .component-5 {
+  animation-delay: 0.4s;
+}
+
+.iep-page-loading .component-6 {
+  animation-delay: 0.5s;
+}
+
+.iep-page-loading .component-7 {
+  animation-delay: 0.6s;
+}
+
+.iep-page-loading .component-8 {
+  animation-delay: 0.7s;
+}

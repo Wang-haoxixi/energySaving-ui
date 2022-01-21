@@ -1,0 +1,100 @@
+export const mockData = {
+  code: 0,
+  data: {
+    records: [{
+      id: 1,
+      commonDataMetaName: '身份证号清洗应用规则',
+      commonDataMetaNameEn: '用于身份证号清洗的规则',
+      commonDataMetaNumber: '服务主题分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000297',
+        commonDataMetaNameEn: '服务主题分类代码',
+        commonDataMetaNameEn1: 'Service Subject Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 2,
+      commonDataMetaName: '行政区划清洗规则',
+      commonDataMetaNameEn: '	用于清洗行政区划编码',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 3,
+      commonDataMetaName: '国籍代码清洗规则',
+      commonDataMetaNameEn: '	用于清洗国籍代码',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '国籍代码清洗规则',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 4,
+      commonDataMetaName: '事项名称清洗规则',
+      commonDataMetaNameEn: '	用于清洗事项名称',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 5,
+      commonDataMetaName: '行政权力清洗规则',
+      commonDataMetaNameEn: '	用于清洗行政权力',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 6,
+      commonDataMetaName: '主题服务清洗规则',
+      commonDataMetaNameEn: '	用于清洗主题服务',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 6,
+      commonDataMetaName: '公共服务清洗规则',
+      commonDataMetaNameEn: '	用于清洗公共服务事项',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }, {
+      id: 6,
+      commonDataMetaName: '云表单清洗规则',
+      commonDataMetaNameEn: '	用于清洗云表单最小颗粒度',
+      commonDataMetaNumber: '行政管辖分类代码',
+      pagedTable: [{
+        commonDataMetaName: 'GZ000000296',
+        commonDataMetaNameEn: '行政管辖分类代码',
+        commonDataMetaNameEn1: 'Administrative Jurisdiction Classification Code',
+        commonDataMetaNameEn2: '政务服务平台 第6部分：事项分类(2019版)',
+      }],
+    }],
+    total: 3,
+    size: 10,
+    current: 1,
+    orders: [],
+    searchCount: true,
+    pages: 1,
+  },
+};

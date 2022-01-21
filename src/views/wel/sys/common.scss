@@ -1,0 +1,69 @@
+.chart-wrapper {
+  font-size: 14px;
+  .ibox {
+    width: 100%;
+  }
+  .statistics {
+    margin: 20px 0 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    > div {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .num {
+      display: inline-block;
+      max-width: 60px;
+      font-size: 22px;
+      font-family: "微软雅黑";
+      color: $--color-text-primary;
+      vertical-align: middle;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .text {
+      margin-top: 8px;
+      line-height: 14px;
+      color: $--color-text-regular;
+    }
+    .num-box {
+      flex: 1.6;
+      padding-left: 15px;
+      text-align: left;
+      line-height: 32px;
+      border-left: 1px solid $--border-color;
+      &:last-child {
+        & > div {
+          border-right: 0;
+        }
+      }
+      i {
+        font-size: 20px;
+        vertical-align: -2px;
+      }
+      .blue {
+        color: #2fcf75;
+      }
+      .red {
+        color: #ff3200;
+      }
+    }
+  }
+  .situation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .chart {
+    width: 100%;
+    height: 200px;
+    .echarts {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

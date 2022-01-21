@@ -1,0 +1,57 @@
+export const mockData = {
+  code: 0,
+  data: {
+    records: [{
+      id: 1,
+      commonDataMetaName: '赣州市',
+      num: '05',
+      content: '赣州市精准扶贫',
+    }, {
+      id: 2,
+      commonDataMetaName: '萍乡市',
+      num: '06',
+      content: '萍乡市复工复产',
+    }, {
+      id: 3,
+      commonDataMetaName: '江西省',
+      num: '07',
+      content: '江西省疫情控制',
+    }, {
+      id: 4,
+      commonDataMetaName: '浙江省',
+      num: '07',
+      content: '浙江省信息公开',
+    }, {
+      id: 5,
+      commonDataMetaName: '浙江省',
+      num: '07',
+      content: '浙江省疫情控制',
+    }, {
+      id: 6,
+      commonDataMetaName: '浙江省',
+      num: '07',
+      content: '正降生复工复产',
+    }, {
+      id: 7,
+      commonDataMetaName: '江苏省',
+      num: '07',
+      content: '江苏省信息公开',
+    }, {
+      id: 8,
+      commonDataMetaName: '江苏省',
+      num: '07',
+      content: '江苏省疫情控制',
+    }, {
+      id: 9,
+      commonDataMetaName: '湖北省',
+      num: '07',
+      content: '湖北省信息公开',
+    }],
+    total: 3,
+    size: 10,
+    current: 1,
+    orders: [],
+    searchCount: true,
+    pages: 1,
+  },
+};

@@ -1,0 +1,3505 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "code": "1000000",
+      "type": "1",
+      "parentCode": "",
+      "name": "北京",
+      "shortName": "BJ",
+      "children": [
+        {
+          "code": "1000050",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "东城",
+          "shortName": "DC"
+        },
+        {
+          "code": "1000100",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "西城",
+          "shortName": "XC"
+        },
+        {
+          "code": "1000150",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "朝阳",
+          "shortName": "CY"
+        },
+        {
+          "code": "1000200",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "丰台",
+          "shortName": "FT"
+        },
+        {
+          "code": "1000250",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "石景山",
+          "shortName": "SJS"
+        },
+        {
+          "code": "1000300",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "海淀",
+          "shortName": "HD"
+        },
+        {
+          "code": "1000350",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "门头沟",
+          "shortName": "MTG"
+        },
+        {
+          "code": "1000400",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "房山",
+          "shortName": "FS"
+        },
+        {
+          "code": "1000450",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "通州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1000500",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "顺义",
+          "shortName": "SY"
+        },
+        {
+          "code": "1000550",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "昌平",
+          "shortName": "CP"
+        },
+        {
+          "code": "1000600",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "大兴",
+          "shortName": "DX"
+        },
+        {
+          "code": "1000650",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "怀柔",
+          "shortName": "HR"
+        },
+        {
+          "code": "1000700",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "平谷",
+          "shortName": "PG"
+        },
+        {
+          "code": "1000750",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "密云县",
+          "shortName": "MYX"
+        },
+        {
+          "code": "1000800",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "延庆县",
+          "shortName": "YQX"
+        }
+      ]
+    },
+    {
+      "code": "1010000",
+      "type": "1",
+      "parentCode": "",
+      "name": "天津",
+      "shortName": "TJ",
+      "children": [
+        {
+          "code": "1010050",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "和平",
+          "shortName": "HP"
+        },
+        {
+          "code": "1010100",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河东",
+          "shortName": "HD"
+        },
+        {
+          "code": "1010150",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河西",
+          "shortName": "HX"
+        },
+        {
+          "code": "1010200",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "南开",
+          "shortName": "NK"
+        },
+        {
+          "code": "1010250",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1010300",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "红桥",
+          "shortName": "HQ"
+        },
+        {
+          "code": "1010350",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "东丽",
+          "shortName": "DL"
+        },
+        {
+          "code": "1010400",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "西青",
+          "shortName": "XQ"
+        },
+        {
+          "code": "1010450",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "津南",
+          "shortName": "JN"
+        },
+        {
+          "code": "1010500",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "北辰",
+          "shortName": "BC"
+        },
+        {
+          "code": "1010550",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "武清",
+          "shortName": "WQ"
+        },
+        {
+          "code": "1010600",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "宝坻",
+          "shortName": "BC"
+        },
+        {
+          "code": "1010650",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "滨海",
+          "shortName": "BH"
+        },
+        {
+          "code": "1010700",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "宁河县",
+          "shortName": "NHX"
+        },
+        {
+          "code": "1010750",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "静海县",
+          "shortName": "JHX"
+        },
+        {
+          "code": "1010800",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "蓟县",
+          "shortName": "JX"
+        }
+      ]
+    },
+    {
+      "code": "1020000",
+      "type": "1",
+      "parentCode": "",
+      "name": "河北",
+      "shortName": "HB",
+      "children": [
+        {
+          "code": "1020050",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "石家庄",
+          "shortName": "SJZ"
+        },
+        {
+          "code": "1020100",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "唐山",
+          "shortName": "TS"
+        },
+        {
+          "code": "1020150",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "秦皇岛",
+          "shortName": "QHD"
+        },
+        {
+          "code": "1020200",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "邯郸",
+          "shortName": "HD"
+        },
+        {
+          "code": "1020250",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "邢台",
+          "shortName": "XT"
+        },
+        {
+          "code": "1020300",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "保定",
+          "shortName": "BD"
+        },
+        {
+          "code": "1020350",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "张家口",
+          "shortName": "ZJK"
+        },
+        {
+          "code": "1020400",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "承德",
+          "shortName": "CD"
+        },
+        {
+          "code": "1020450",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "沧州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1020500",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "廊坊",
+          "shortName": "LF"
+        },
+        {
+          "code": "1020550",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "衡水",
+          "shortName": "HS"
+        }
+      ]
+    },
+    {
+      "code": "1030000",
+      "type": "1",
+      "parentCode": "",
+      "name": "山西",
+      "shortName": "SX",
+      "children": [
+        {
+          "code": "1030050",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "太原",
+          "shortName": "TY"
+        },
+        {
+          "code": "1030100",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "大同",
+          "shortName": "DT"
+        },
+        {
+          "code": "1030150",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "阳泉",
+          "shortName": "YQ"
+        },
+        {
+          "code": "1030200",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "长治",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1030250",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "晋城",
+          "shortName": "JC"
+        },
+        {
+          "code": "1030300",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "朔州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1030350",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "晋中",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1030400",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "运城",
+          "shortName": "YC"
+        },
+        {
+          "code": "1030450",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "忻州",
+          "shortName": "XZ"
+        },
+        {
+          "code": "1030500",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "临汾",
+          "shortName": "LF"
+        },
+        {
+          "code": "1030550",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "吕梁",
+          "shortName": "LL"
+        }
+      ]
+    },
+    {
+      "code": "1040000",
+      "type": "1",
+      "parentCode": "",
+      "name": "内蒙古",
+      "shortName": "NMG",
+      "children": [
+        {
+          "code": "1040050",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "呼和浩特",
+          "shortName": "HHHT"
+        },
+        {
+          "code": "1040100",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "包头",
+          "shortName": "BT"
+        },
+        {
+          "code": "1040150",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "乌海",
+          "shortName": "WH"
+        },
+        {
+          "code": "1040200",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "赤峰",
+          "shortName": "CF"
+        },
+        {
+          "code": "1040250",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "通辽",
+          "shortName": "TL"
+        },
+        {
+          "code": "1040300",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "鄂尔多斯",
+          "shortName": "EEDS"
+        },
+        {
+          "code": "1040350",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "呼伦贝尔",
+          "shortName": "HLBE"
+        },
+        {
+          "code": "1040400",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "巴彦淖尔",
+          "shortName": "BYNE"
+        },
+        {
+          "code": "1040450",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "乌兰察布",
+          "shortName": "WLCB"
+        },
+        {
+          "code": "1040500",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "兴安",
+          "shortName": "XA"
+        },
+        {
+          "code": "1040550",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "锡林郭勒",
+          "shortName": "XLGL"
+        },
+        {
+          "code": "1040600",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "阿拉善",
+          "shortName": "ALS"
+        }
+      ]
+    },
+    {
+      "code": "1050000",
+      "type": "1",
+      "parentCode": "",
+      "name": "辽宁",
+      "shortName": "LN",
+      "children": [
+        {
+          "code": "1050050",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "沈阳",
+          "shortName": "SY"
+        },
+        {
+          "code": "1050100",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "大连",
+          "shortName": "DL"
+        },
+        {
+          "code": "1050150",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "鞍山",
+          "shortName": "AS"
+        },
+        {
+          "code": "1050200",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "抚顺",
+          "shortName": "FS"
+        },
+        {
+          "code": "1050250",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "本溪",
+          "shortName": "BX"
+        },
+        {
+          "code": "1050300",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "丹东",
+          "shortName": "DD"
+        },
+        {
+          "code": "1050350",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "锦州",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1050400",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "营口",
+          "shortName": "YK"
+        },
+        {
+          "code": "1050450",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "阜新",
+          "shortName": "FX"
+        },
+        {
+          "code": "1050500",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "辽阳",
+          "shortName": "LY"
+        },
+        {
+          "code": "1050550",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "盘锦",
+          "shortName": "PJ"
+        },
+        {
+          "code": "1050600",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "铁岭",
+          "shortName": "TL"
+        },
+        {
+          "code": "1050650",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "朝阳",
+          "shortName": "CY"
+        },
+        {
+          "code": "1050700",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "葫芦岛",
+          "shortName": "HLD"
+        }
+      ]
+    },
+    {
+      "code": "1060000",
+      "type": "1",
+      "parentCode": "",
+      "name": "吉林",
+      "shortName": "JL",
+      "children": [
+        {
+          "code": "1060050",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "长春",
+          "shortName": "ZC"
+        },
+        {
+          "code": "1060100",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "吉林",
+          "shortName": "JL"
+        },
+        {
+          "code": "1060150",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "四平",
+          "shortName": "SP"
+        },
+        {
+          "code": "1060200",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "辽源",
+          "shortName": "LY"
+        },
+        {
+          "code": "1060250",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "通化",
+          "shortName": "TH"
+        },
+        {
+          "code": "1060300",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "白山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1060350",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "松原",
+          "shortName": "SY"
+        },
+        {
+          "code": "1060400",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "白城",
+          "shortName": "BC"
+        },
+        {
+          "code": "1060450",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "延边",
+          "shortName": "YB"
+        }
+      ]
+    },
+    {
+      "code": "1070000",
+      "type": "1",
+      "parentCode": "",
+      "name": "黑龙江",
+      "shortName": "HLJ",
+      "children": [
+        {
+          "code": "1070050",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "哈尔滨",
+          "shortName": "HEB"
+        },
+        {
+          "code": "1070100",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "齐齐哈尔",
+          "shortName": "QQHE"
+        },
+        {
+          "code": "1070150",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "鸡西",
+          "shortName": "JX"
+        },
+        {
+          "code": "1070200",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "鹤岗",
+          "shortName": "HG"
+        },
+        {
+          "code": "1070250",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "双鸭山",
+          "shortName": "SYS"
+        },
+        {
+          "code": "1070300",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "大庆",
+          "shortName": "DQ"
+        },
+        {
+          "code": "1070350",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "伊春",
+          "shortName": "YC"
+        },
+        {
+          "code": "1070400",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "佳木斯",
+          "shortName": "JMS"
+        },
+        {
+          "code": "1070450",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "七台河",
+          "shortName": "QTH"
+        },
+        {
+          "code": "1070500",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "牡丹江",
+          "shortName": "MDJ"
+        },
+        {
+          "code": "1070550",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "黑河",
+          "shortName": "HH"
+        },
+        {
+          "code": "1070600",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "绥化",
+          "shortName": "SH"
+        },
+        {
+          "code": "1070650",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "大兴安岭",
+          "shortName": "DXAL"
+        }
+      ]
+    },
+    {
+      "code": "1080000",
+      "type": "1",
+      "parentCode": "",
+      "name": "上海",
+      "shortName": "SH",
+      "children": [
+        {
+          "code": "1080050",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "黄浦",
+          "shortName": "HP"
+        },
+        {
+          "code": "1080100",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "卢湾",
+          "shortName": "LW"
+        },
+        {
+          "code": "1080150",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "徐汇",
+          "shortName": "XH"
+        },
+        {
+          "code": "1080200",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "长宁",
+          "shortName": "ZN"
+        },
+        {
+          "code": "1080250",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "静安",
+          "shortName": "JA"
+        },
+        {
+          "code": "1080300",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "普陀",
+          "shortName": "PT"
+        },
+        {
+          "code": "1080350",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "闸北",
+          "shortName": "ZB"
+        },
+        {
+          "code": "1080400",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "虹口",
+          "shortName": "HK"
+        },
+        {
+          "code": "1080450",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "杨浦",
+          "shortName": "YP"
+        },
+        {
+          "code": "1080500",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "闵行",
+          "shortName": "MX"
+        },
+        {
+          "code": "1080550",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "宝山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1080600",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "嘉定",
+          "shortName": "JD"
+        },
+        {
+          "code": "1080650",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "浦东",
+          "shortName": "PD"
+        },
+        {
+          "code": "1080700",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "金山",
+          "shortName": "JS"
+        },
+        {
+          "code": "1080750",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "松江",
+          "shortName": "SJ"
+        },
+        {
+          "code": "1080800",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "青浦",
+          "shortName": "QP"
+        },
+        {
+          "code": "1080850",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "奉贤",
+          "shortName": "FX"
+        },
+        {
+          "code": "1080900",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "崇明县",
+          "shortName": "CMX"
+        }
+      ]
+    },
+    {
+      "code": "1090000",
+      "type": "1",
+      "parentCode": "",
+      "name": "江苏",
+      "shortName": "JS",
+      "children": [
+        {
+          "code": "1090050",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "南京",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1090100",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "无锡",
+          "shortName": "WX"
+        },
+        {
+          "code": "1090150",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "徐州",
+          "shortName": "XZ"
+        },
+        {
+          "code": "1090200",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "常州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1090250",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "苏州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1090300",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "南通",
+          "shortName": "NT"
+        },
+        {
+          "code": "1090350",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "连云港",
+          "shortName": "LYG"
+        },
+        {
+          "code": "1090400",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "淮安",
+          "shortName": "HA"
+        },
+        {
+          "code": "1090450",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "盐城",
+          "shortName": "YC"
+        },
+        {
+          "code": "1090500",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "扬州",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1090550",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "镇江",
+          "shortName": "ZJ"
+        },
+        {
+          "code": "1090600",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "泰州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1090650",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "宿迁",
+          "shortName": "SQ"
+        }
+      ]
+    },
+    {
+      "code": "1100000",
+      "type": "1",
+      "parentCode": "",
+      "name": "浙江",
+      "shortName": "ZJ",
+      "children": [
+        {
+          "code": "1100050",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "杭州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1100100",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "宁波",
+          "shortName": "NB"
+        },
+        {
+          "code": "1100150",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "温州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1100200",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "嘉兴",
+          "shortName": "JX"
+        },
+        {
+          "code": "1100250",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "湖州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1100300",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "绍兴",
+          "shortName": "SX"
+        },
+        {
+          "code": "1100350",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "金华",
+          "shortName": "JH"
+        },
+        {
+          "code": "1100400",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "衢州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1100450",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "舟山",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1100500",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "台州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1100550",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "丽水",
+          "shortName": "LS"
+        }
+      ]
+    },
+    {
+      "code": "1110000",
+      "type": "1",
+      "parentCode": "",
+      "name": "安徽",
+      "shortName": "AH",
+      "children": [
+        {
+          "code": "1110050",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "合肥",
+          "shortName": "HF"
+        },
+        {
+          "code": "1110100",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "芜湖",
+          "shortName": "WH"
+        },
+        {
+          "code": "1110150",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "蚌埠",
+          "shortName": "BB"
+        },
+        {
+          "code": "1110200",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "淮南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1110250",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "马鞍山",
+          "shortName": "MAS"
+        },
+        {
+          "code": "1110300",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "淮北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1110350",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "铜陵",
+          "shortName": "TL"
+        },
+        {
+          "code": "1110400",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "安庆",
+          "shortName": "AQ"
+        },
+        {
+          "code": "1110450",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "黄山",
+          "shortName": "HS"
+        },
+        {
+          "code": "1110500",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "滁州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1110550",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "阜阳",
+          "shortName": "FY"
+        },
+        {
+          "code": "1110600",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "宿州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1110650",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "巢湖",
+          "shortName": "CH"
+        },
+        {
+          "code": "1110700",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "六安",
+          "shortName": "LA"
+        },
+        {
+          "code": "1110750",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "亳州",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1110800",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "池州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1110850",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "宣城",
+          "shortName": "XC"
+        }
+      ]
+    },
+    {
+      "code": "1120000",
+      "type": "1",
+      "parentCode": "",
+      "name": "福建",
+      "shortName": "FJ",
+      "children": [
+        {
+          "code": "1120050",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "福州",
+          "shortName": "FZ"
+        },
+        {
+          "code": "1120100",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "厦门",
+          "shortName": "SM"
+        },
+        {
+          "code": "1120150",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "莆田",
+          "shortName": "PT"
+        },
+        {
+          "code": "1120200",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "三明",
+          "shortName": "SM"
+        },
+        {
+          "code": "1120250",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "泉州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1120300",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "漳州",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1120350",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "南平",
+          "shortName": "NP"
+        },
+        {
+          "code": "1120400",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "龙岩",
+          "shortName": "LY"
+        },
+        {
+          "code": "1120450",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "宁德",
+          "shortName": "ND"
+        }
+      ]
+    },
+    {
+      "code": "1130000",
+      "type": "1",
+      "parentCode": "",
+      "name": "江西",
+      "shortName": "JX",
+      "children": [
+        {
+          "code": "1130050",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "南昌",
+          "shortName": "NC"
+        },
+        {
+          "code": "1130100",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "景德镇",
+          "shortName": "JDZ"
+        },
+        {
+          "code": "1130150",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "萍乡",
+          "shortName": "PX"
+        },
+        {
+          "code": "1130200",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "九江",
+          "shortName": "JJ"
+        },
+        {
+          "code": "1130250",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "新余",
+          "shortName": "XY"
+        },
+        {
+          "code": "1130300",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "鹰潭",
+          "shortName": "YT"
+        },
+        {
+          "code": "1130350",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "赣州",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1130400",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "吉安",
+          "shortName": "JA"
+        },
+        {
+          "code": "1130450",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "宜春",
+          "shortName": "YC"
+        },
+        {
+          "code": "1130500",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "抚州",
+          "shortName": "FZ"
+        },
+        {
+          "code": "1130550",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "上饶",
+          "shortName": "SR"
+        }
+      ]
+    },
+    {
+      "code": "1140000",
+      "type": "1",
+      "parentCode": "",
+      "name": "山东",
+      "shortName": "SD",
+      "children": [
+        {
+          "code": "1140050",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "济南",
+          "shortName": "JN"
+        },
+        {
+          "code": "1140100",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "青岛",
+          "shortName": "QD"
+        },
+        {
+          "code": "1140150",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "淄博",
+          "shortName": "ZB"
+        },
+        {
+          "code": "1140200",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "枣庄",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1140250",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "东营",
+          "shortName": "DY"
+        },
+        {
+          "code": "1140300",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "烟台",
+          "shortName": "YT"
+        },
+        {
+          "code": "1140350",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "潍坊",
+          "shortName": "WF"
+        },
+        {
+          "code": "1140400",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "济宁",
+          "shortName": "JN"
+        },
+        {
+          "code": "1140450",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "泰安",
+          "shortName": "TA"
+        },
+        {
+          "code": "1140500",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "威海",
+          "shortName": "WH"
+        },
+        {
+          "code": "1140550",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "日照",
+          "shortName": "RZ"
+        },
+        {
+          "code": "1140600",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "莱芜",
+          "shortName": "LW"
+        },
+        {
+          "code": "1140650",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "临沂",
+          "shortName": "LY"
+        },
+        {
+          "code": "1140700",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "德州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1140750",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "聊城",
+          "shortName": "LC"
+        },
+        {
+          "code": "1140800",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "滨州",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1140850",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "菏泽",
+          "shortName": "HZ"
+        }
+      ]
+    },
+    {
+      "code": "1150000",
+      "type": "1",
+      "parentCode": "",
+      "name": "河南",
+      "shortName": "HN",
+      "children": [
+        {
+          "code": "1150050",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "郑州",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1150100",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "开封",
+          "shortName": "KF"
+        },
+        {
+          "code": "1150150",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "洛阳",
+          "shortName": "LY"
+        },
+        {
+          "code": "1150200",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "平顶山",
+          "shortName": "PDS"
+        },
+        {
+          "code": "1150250",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "安阳",
+          "shortName": "AY"
+        },
+        {
+          "code": "1150300",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "鹤壁",
+          "shortName": "HB"
+        },
+        {
+          "code": "1150350",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "新乡",
+          "shortName": "XX"
+        },
+        {
+          "code": "1150400",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "焦作",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1150450",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "濮阳",
+          "shortName": "PY"
+        },
+        {
+          "code": "1150500",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "许昌",
+          "shortName": "XC"
+        },
+        {
+          "code": "1150550",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "漯河",
+          "shortName": "LH"
+        },
+        {
+          "code": "1150600",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "三门峡",
+          "shortName": "SMX"
+        },
+        {
+          "code": "1150650",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "南阳",
+          "shortName": "NY"
+        },
+        {
+          "code": "1150700",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "商丘",
+          "shortName": "SQ"
+        },
+        {
+          "code": "1150750",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "信阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1150800",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "周口",
+          "shortName": "ZK"
+        },
+        {
+          "code": "1150850",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "驻马店",
+          "shortName": "ZMD"
+        },
+        {
+          "code": "1150900",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "济源",
+          "shortName": "JY"
+        }
+      ]
+    },
+    {
+      "code": "1160000",
+      "type": "1",
+      "parentCode": "",
+      "name": "湖北",
+      "shortName": "HB",
+      "children": [
+        {
+          "code": "1160050",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "武汉",
+          "shortName": "WH"
+        },
+        {
+          "code": "1160100",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "黄石",
+          "shortName": "HS"
+        },
+        {
+          "code": "1160150",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "十堰",
+          "shortName": "SY"
+        },
+        {
+          "code": "1160200",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "宜昌",
+          "shortName": "YC"
+        },
+        {
+          "code": "1160250",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "襄阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1160300",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "鄂州",
+          "shortName": "EZ"
+        },
+        {
+          "code": "1160350",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "荆门",
+          "shortName": "JM"
+        },
+        {
+          "code": "1160400",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "孝感",
+          "shortName": "XG"
+        },
+        {
+          "code": "1160450",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "荆州",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1160500",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "黄冈",
+          "shortName": "HG"
+        },
+        {
+          "code": "1160550",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "咸宁",
+          "shortName": "XN"
+        },
+        {
+          "code": "1160600",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "随州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1160650",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "恩施",
+          "shortName": "ES"
+        },
+        {
+          "code": "1160700",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "潜江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1160750",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "仙桃",
+          "shortName": "XT"
+        },
+        {
+          "code": "1160800",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "天门",
+          "shortName": "TM"
+        },
+        {
+          "code": "1160850",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "神农架",
+          "shortName": "SNJ"
+        }
+      ]
+    },
+    {
+      "code": "1170000",
+      "type": "1",
+      "parentCode": "",
+      "name": "湖南",
+      "shortName": "HN",
+      "children": [
+        {
+          "code": "1170050",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "长沙",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1170100",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "株洲",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1170150",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "湘潭",
+          "shortName": "XT"
+        },
+        {
+          "code": "1170200",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "衡阳",
+          "shortName": "HY"
+        },
+        {
+          "code": "1170250",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "邵阳",
+          "shortName": "SY"
+        },
+        {
+          "code": "1170300",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "岳阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1170350",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "常德",
+          "shortName": "CD"
+        },
+        {
+          "code": "1170400",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "张家界",
+          "shortName": "ZJJ"
+        },
+        {
+          "code": "1170450",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "益阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1170500",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "郴州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1170550",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "永州",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1170600",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "怀化",
+          "shortName": "HH"
+        },
+        {
+          "code": "1170650",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "娄底",
+          "shortName": "LD"
+        },
+        {
+          "code": "1170700",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "湘西",
+          "shortName": "XX"
+        }
+      ]
+    },
+    {
+      "code": "1180000",
+      "type": "1",
+      "parentCode": "",
+      "name": "广东",
+      "shortName": "GD",
+      "children": [
+        {
+          "code": "1180050",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "广州",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1180100",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "韶关",
+          "shortName": "SG"
+        },
+        {
+          "code": "1180150",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "深圳",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1180200",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "珠海",
+          "shortName": "ZH"
+        },
+        {
+          "code": "1180250",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "汕头",
+          "shortName": "ST"
+        },
+        {
+          "code": "1180300",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "佛山",
+          "shortName": "FS"
+        },
+        {
+          "code": "1180350",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "江门",
+          "shortName": "JM"
+        },
+        {
+          "code": "1180400",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "湛江",
+          "shortName": "ZJ"
+        },
+        {
+          "code": "1180450",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "茂名",
+          "shortName": "MM"
+        },
+        {
+          "code": "1180500",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "肇庆",
+          "shortName": "ZQ"
+        },
+        {
+          "code": "1180550",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "惠州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1180600",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "梅州",
+          "shortName": "MZ"
+        },
+        {
+          "code": "1180650",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "汕尾",
+          "shortName": "SW"
+        },
+        {
+          "code": "1180700",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "河源",
+          "shortName": "HY"
+        },
+        {
+          "code": "1180750",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "阳江",
+          "shortName": "YJ"
+        },
+        {
+          "code": "1180800",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "清远",
+          "shortName": "QY"
+        },
+        {
+          "code": "1180850",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "东莞",
+          "shortName": "DG"
+        },
+        {
+          "code": "1180900",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "中山",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1180950",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "东沙群岛",
+          "shortName": "DSQD"
+        },
+        {
+          "code": "1181000",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "潮州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1181050",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "揭阳",
+          "shortName": "JY"
+        },
+        {
+          "code": "1181100",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "云浮",
+          "shortName": "YF"
+        }
+      ]
+    },
+    {
+      "code": "1190000",
+      "type": "1",
+      "parentCode": "",
+      "name": "广西",
+      "shortName": "GX",
+      "children": [
+        {
+          "code": "1190050",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "南宁",
+          "shortName": "NN"
+        },
+        {
+          "code": "1190100",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "柳州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1190150",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "桂林",
+          "shortName": "GL"
+        },
+        {
+          "code": "1190200",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "梧州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1190250",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "北海",
+          "shortName": "BH"
+        },
+        {
+          "code": "1190300",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "防城港",
+          "shortName": "FCG"
+        },
+        {
+          "code": "1190350",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "钦州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1190400",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "贵港",
+          "shortName": "GG"
+        },
+        {
+          "code": "1190450",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "玉林",
+          "shortName": "YL"
+        },
+        {
+          "code": "1190500",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "百色",
+          "shortName": "BS"
+        },
+        {
+          "code": "1190550",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "贺州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1190600",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "河池",
+          "shortName": "HC"
+        },
+        {
+          "code": "1190650",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "来宾",
+          "shortName": "LB"
+        },
+        {
+          "code": "1190700",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "崇左",
+          "shortName": "CZ"
+        }
+      ]
+    },
+    {
+      "code": "1200000",
+      "type": "1",
+      "parentCode": "",
+      "name": "海南",
+      "shortName": "HN",
+      "children": [
+        {
+          "code": "1200050",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "海口",
+          "shortName": "HK"
+        },
+        {
+          "code": "1200100",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "三亚",
+          "shortName": "SY"
+        },
+        {
+          "code": "1200150",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "临高县",
+          "shortName": "LGX"
+        },
+        {
+          "code": "1200200",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "儋州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1200250",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "屯昌县",
+          "shortName": "TCX"
+        },
+        {
+          "code": "1200300",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "定安县",
+          "shortName": "DAX"
+        },
+        {
+          "code": "1200350",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "澄迈县",
+          "shortName": "CMX"
+        },
+        {
+          "code": "1200400",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "文昌",
+          "shortName": "WC"
+        },
+        {
+          "code": "1200450",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "琼海",
+          "shortName": "QH"
+        },
+        {
+          "code": "1200500",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "万宁",
+          "shortName": "WN"
+        },
+        {
+          "code": "1200550",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "琼中县",
+          "shortName": "QZX"
+        },
+        {
+          "code": "1200600",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "保亭县",
+          "shortName": "BTX"
+        },
+        {
+          "code": "1200650",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "五指山",
+          "shortName": "WZS"
+        },
+        {
+          "code": "1200700",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "白沙县",
+          "shortName": "BSX"
+        },
+        {
+          "code": "1200750",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "东方",
+          "shortName": "DF"
+        },
+        {
+          "code": "1200800",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "昌江县",
+          "shortName": "CJX"
+        },
+        {
+          "code": "1200850",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "乐东县",
+          "shortName": "LDX"
+        },
+        {
+          "code": "1200900",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "陵水县",
+          "shortName": "LSX"
+        },
+        {
+          "code": "1200950",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "西沙群岛",
+          "shortName": "XSQD"
+        },
+        {
+          "code": "1201000",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "南沙群岛",
+          "shortName": "NSQD"
+        }
+      ]
+    },
+    {
+      "code": "1210000",
+      "type": "1",
+      "parentCode": "",
+      "name": "重庆",
+      "shortName": "ZQ",
+      "children": [
+        {
+          "code": "1210050",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "万州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1210100",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "涪陵",
+          "shortName": "FL"
+        },
+        {
+          "code": "1210150",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "渝中",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1210200",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "大渡口",
+          "shortName": "DDK"
+        },
+        {
+          "code": "1210250",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "江北",
+          "shortName": "JB"
+        },
+        {
+          "code": "1210300",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "沙坪坝",
+          "shortName": "SPB"
+        },
+        {
+          "code": "1210350",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "九龙坡",
+          "shortName": "JLP"
+        },
+        {
+          "code": "1210400",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "南岸",
+          "shortName": "NA"
+        },
+        {
+          "code": "1210450",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "北碚",
+          "shortName": "BB"
+        },
+        {
+          "code": "1210500",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "万盛",
+          "shortName": "WS"
+        },
+        {
+          "code": "1210550",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "双桥",
+          "shortName": "SQ"
+        },
+        {
+          "code": "1210600",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "渝北",
+          "shortName": "YB"
+        },
+        {
+          "code": "1210650",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巴南",
+          "shortName": "BN"
+        },
+        {
+          "code": "1210700",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "黔江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1210750",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "长寿",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1210800",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "江津",
+          "shortName": "JJ"
+        },
+        {
+          "code": "1210850",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "合川",
+          "shortName": "HC"
+        },
+        {
+          "code": "1210900",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "永川",
+          "shortName": "YC"
+        },
+        {
+          "code": "1210950",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "南川",
+          "shortName": "NC"
+        },
+        {
+          "code": "1211000",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "綦江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1211050",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "潼南",
+          "shortName": "TN"
+        },
+        {
+          "code": "1211100",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "铜梁",
+          "shortName": "TL"
+        },
+        {
+          "code": "1211150",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "大足",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1211200",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "荣昌",
+          "shortName": "RC"
+        },
+        {
+          "code": "1211250",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "璧山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1211300",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "梁平",
+          "shortName": "LP"
+        },
+        {
+          "code": "1211350",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "城口",
+          "shortName": "CK"
+        },
+        {
+          "code": "1211400",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "丰都",
+          "shortName": "FD"
+        },
+        {
+          "code": "1211450",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "垫江",
+          "shortName": "DJ"
+        },
+        {
+          "code": "1211500",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "武隆",
+          "shortName": "WL"
+        },
+        {
+          "code": "1211550",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "忠县",
+          "shortName": "ZX"
+        },
+        {
+          "code": "1211600",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "开县",
+          "shortName": "KX"
+        },
+        {
+          "code": "1211650",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "云阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1211700",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "奉节",
+          "shortName": "FJ"
+        },
+        {
+          "code": "1211750",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巫山",
+          "shortName": "WS"
+        },
+        {
+          "code": "1211800",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巫溪",
+          "shortName": "WX"
+        },
+        {
+          "code": "1211850",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "石柱",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1211900",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "秀山",
+          "shortName": "XS"
+        },
+        {
+          "code": "1211950",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "酉阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1212000",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "彭水",
+          "shortName": "PS"
+        }
+      ]
+    },
+    {
+      "code": "1220000",
+      "type": "1",
+      "parentCode": "",
+      "name": "四川",
+      "shortName": "SC",
+      "children": [
+        {
+          "code": "1220050",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "成都",
+          "shortName": "CD"
+        },
+        {
+          "code": "1220100",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "自贡",
+          "shortName": "ZG"
+        },
+        {
+          "code": "1220150",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "攀枝花",
+          "shortName": "PZH"
+        },
+        {
+          "code": "1220200",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "泸州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1220250",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "德阳",
+          "shortName": "DY"
+        },
+        {
+          "code": "1220300",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "绵阳",
+          "shortName": "MY"
+        },
+        {
+          "code": "1220350",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "广元",
+          "shortName": "GY"
+        },
+        {
+          "code": "1220400",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "遂宁",
+          "shortName": "SN"
+        },
+        {
+          "code": "1220450",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "内江",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1220500",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "乐山",
+          "shortName": "LS"
+        },
+        {
+          "code": "1220550",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "南充",
+          "shortName": "NC"
+        },
+        {
+          "code": "1220600",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "眉山",
+          "shortName": "MS"
+        },
+        {
+          "code": "1220650",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "宜宾",
+          "shortName": "YB"
+        },
+        {
+          "code": "1220700",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "广安",
+          "shortName": "GA"
+        },
+        {
+          "code": "1220750",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "达州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1220800",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "雅安",
+          "shortName": "YA"
+        },
+        {
+          "code": "1220850",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "巴中",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1220900",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "资阳",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1220950",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "阿坝",
+          "shortName": "AB"
+        },
+        {
+          "code": "1221000",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "甘孜",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1221050",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "凉山",
+          "shortName": "LS"
+        }
+      ]
+    },
+    {
+      "code": "1230000",
+      "type": "1",
+      "parentCode": "",
+      "name": "贵州",
+      "shortName": "GZ",
+      "children": [
+        {
+          "code": "1230050",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "贵阳",
+          "shortName": "GY"
+        },
+        {
+          "code": "1230100",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "六盘水",
+          "shortName": "LPS"
+        },
+        {
+          "code": "1230150",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "遵义",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1230200",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "安顺",
+          "shortName": "AS"
+        },
+        {
+          "code": "1230250",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "铜仁",
+          "shortName": "TR"
+        },
+        {
+          "code": "1230300",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔西",
+          "shortName": "QX"
+        },
+        {
+          "code": "1230350",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "毕节",
+          "shortName": "BJ"
+        },
+        {
+          "code": "1230400",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔东",
+          "shortName": "QD"
+        },
+        {
+          "code": "1230450",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔南",
+          "shortName": "QN"
+        }
+      ]
+    },
+    {
+      "code": "1240000",
+      "type": "1",
+      "parentCode": "",
+      "name": "云南",
+      "shortName": "YN",
+      "children": [
+        {
+          "code": "1240050",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "昆明",
+          "shortName": "KM"
+        },
+        {
+          "code": "1240100",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "曲靖",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1240150",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "玉溪",
+          "shortName": "YX"
+        },
+        {
+          "code": "1240200",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "保山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1240250",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "昭通",
+          "shortName": "ZT"
+        },
+        {
+          "code": "1240300",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "丽江",
+          "shortName": "LJ"
+        },
+        {
+          "code": "1240350",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "普洱",
+          "shortName": "PE"
+        },
+        {
+          "code": "1240400",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "临沧",
+          "shortName": "LC"
+        },
+        {
+          "code": "1240450",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "楚雄",
+          "shortName": "CX"
+        },
+        {
+          "code": "1240500",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "红河",
+          "shortName": "HH"
+        },
+        {
+          "code": "1240550",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "文山",
+          "shortName": "WS"
+        },
+        {
+          "code": "1240600",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "西双版纳",
+          "shortName": "XSBN"
+        },
+        {
+          "code": "1240650",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "大理",
+          "shortName": "DL"
+        },
+        {
+          "code": "1240700",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "德宏",
+          "shortName": "DH"
+        },
+        {
+          "code": "1240750",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "怒江",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1240800",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "迪庆",
+          "shortName": "DQ"
+        }
+      ]
+    },
+    {
+      "code": "1250000",
+      "type": "1",
+      "parentCode": "",
+      "name": "西藏",
+      "shortName": "XZ",
+      "children": [
+        {
+          "code": "1250050",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "拉萨",
+          "shortName": "LS"
+        },
+        {
+          "code": "1250100",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "昌都",
+          "shortName": "CD"
+        },
+        {
+          "code": "1250150",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "山南",
+          "shortName": "SN"
+        },
+        {
+          "code": "1250200",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "日喀则",
+          "shortName": "RKZ"
+        },
+        {
+          "code": "1250250",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "那曲",
+          "shortName": "NQ"
+        },
+        {
+          "code": "1250300",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "阿里",
+          "shortName": "AL"
+        },
+        {
+          "code": "1250350",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "林芝",
+          "shortName": "LZ"
+        }
+      ]
+    },
+    {
+      "code": "1260000",
+      "type": "1",
+      "parentCode": "",
+      "name": "陕西",
+      "shortName": "SX",
+      "children": [
+        {
+          "code": "1260050",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "西安",
+          "shortName": "XA"
+        },
+        {
+          "code": "1260100",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "铜川",
+          "shortName": "TC"
+        },
+        {
+          "code": "1260150",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "宝鸡",
+          "shortName": "BJ"
+        },
+        {
+          "code": "1260200",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "咸阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1260250",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "渭南",
+          "shortName": "WN"
+        },
+        {
+          "code": "1260300",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "延安",
+          "shortName": "YA"
+        },
+        {
+          "code": "1260350",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "汉中",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1260400",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "榆林",
+          "shortName": "YL"
+        },
+        {
+          "code": "1260450",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "安康",
+          "shortName": "AK"
+        },
+        {
+          "code": "1260500",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "商洛",
+          "shortName": "SL"
+        }
+      ]
+    },
+    {
+      "code": "1270000",
+      "type": "1",
+      "parentCode": "",
+      "name": "甘肃",
+      "shortName": "GS",
+      "children": [
+        {
+          "code": "1270050",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "兰州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1270100",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "嘉峪关",
+          "shortName": "JYG"
+        },
+        {
+          "code": "1270150",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "金昌",
+          "shortName": "JC"
+        },
+        {
+          "code": "1270200",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "白银",
+          "shortName": "BY"
+        },
+        {
+          "code": "1270250",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "天水",
+          "shortName": "TS"
+        },
+        {
+          "code": "1270300",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "武威",
+          "shortName": "WW"
+        },
+        {
+          "code": "1270350",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "张掖",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1270400",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "平凉",
+          "shortName": "PL"
+        },
+        {
+          "code": "1270450",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "酒泉",
+          "shortName": "JQ"
+        },
+        {
+          "code": "1270500",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "庆阳",
+          "shortName": "QY"
+        },
+        {
+          "code": "1270550",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "定西",
+          "shortName": "DX"
+        },
+        {
+          "code": "1270600",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "陇南",
+          "shortName": "LN"
+        },
+        {
+          "code": "1270650",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "临夏",
+          "shortName": "LX"
+        },
+        {
+          "code": "1270700",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "甘南",
+          "shortName": "GN"
+        }
+      ]
+    },
+    {
+      "code": "1280000",
+      "type": "1",
+      "parentCode": "",
+      "name": "青海",
+      "shortName": "QH",
+      "children": [
+        {
+          "code": "1280050",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "西宁",
+          "shortName": "XN"
+        },
+        {
+          "code": "1280100",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海东",
+          "shortName": "HD"
+        },
+        {
+          "code": "1280150",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1280200",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "黄南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1280250",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1280300",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "果洛",
+          "shortName": "GL"
+        },
+        {
+          "code": "1280350",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "玉树",
+          "shortName": "YS"
+        },
+        {
+          "code": "1280400",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海西",
+          "shortName": "HX"
+        }
+      ]
+    },
+    {
+      "code": "1290000",
+      "type": "1",
+      "parentCode": "",
+      "name": "宁夏",
+      "shortName": "NX",
+      "children": [
+        {
+          "code": "1290050",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "银川",
+          "shortName": "YC"
+        },
+        {
+          "code": "1290100",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "石嘴山",
+          "shortName": "SZS"
+        },
+        {
+          "code": "1290150",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "吴忠",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1290200",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "固原",
+          "shortName": "GY"
+        },
+        {
+          "code": "1290250",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "中卫",
+          "shortName": "ZW"
+        }
+      ]
+    },
+    {
+      "code": "1300000",
+      "type": "1",
+      "parentCode": "",
+      "name": "新疆",
+      "shortName": "XJ",
+      "children": [
+        {
+          "code": "1300050",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "乌鲁木齐",
+          "shortName": "WLMQ"
+        },
+        {
+          "code": "1300100",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "克拉玛依",
+          "shortName": "KLMY"
+        },
+        {
+          "code": "1300150",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "吐鲁番",
+          "shortName": "TLF"
+        },
+        {
+          "code": "1300200",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "哈密",
+          "shortName": "HM"
+        },
+        {
+          "code": "1300250",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "昌吉",
+          "shortName": "CJ"
+        },
+        {
+          "code": "1300300",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "博尔塔拉",
+          "shortName": "BETL"
+        },
+        {
+          "code": "1300350",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "巴音郭楞",
+          "shortName": "BYGL"
+        },
+        {
+          "code": "1300400",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿克苏",
+          "shortName": "AKS"
+        },
+        {
+          "code": "1300450",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "克孜勒苏",
+          "shortName": "KZLS"
+        },
+        {
+          "code": "1300500",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "喀什",
+          "shortName": "KS"
+        },
+        {
+          "code": "1300550",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "和田",
+          "shortName": "HT"
+        },
+        {
+          "code": "1300600",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "伊犁",
+          "shortName": "YL"
+        },
+        {
+          "code": "1300650",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "塔城",
+          "shortName": "TC"
+        },
+        {
+          "code": "1300700",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿勒泰",
+          "shortName": "ALT"
+        },
+        {
+          "code": "1300750",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "石河子",
+          "shortName": "SHZ"
+        },
+        {
+          "code": "1300800",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿拉尔",
+          "shortName": "ALE"
+        },
+        {
+          "code": "1300850",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "图木舒克",
+          "shortName": "TMSK"
+        },
+        {
+          "code": "1300900",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "五家渠",
+          "shortName": "WJQ"
+        }
+      ]
+    },
+    {
+      "code": "1310000",
+      "type": "1",
+      "parentCode": "",
+      "name": "海外",
+      "shortName": "HW",
+      "children": [
+        {
+          "code": "1310000",
+          "type": "1",
+          "parentCode": "",
+          "name": "海外",
+          "shortName": "HW"
+        }
+      ]
+    },
+    {
+      "code": "1320000",
+      "type": "1",
+      "parentCode": "",
+      "name": "香港",
+      "shortName": "XG",
+      "children": [
+        {
+          "code": "1320000",
+          "type": "1",
+          "parentCode": "",
+          "name": "香港",
+          "shortName": "XG"
+        }
+      ]
+    },
+    {
+      "code": "1330000",
+      "type": "1",
+      "parentCode": "",
+      "name": "澳门",
+      "shortName": "AM",
+      "children": [
+        {
+          "code": "1330000",
+          "type": "1",
+          "parentCode": "",
+          "name": "澳门",
+          "shortName": "AM"
+        }
+      ]
+    },
+    {
+      "code": "1340000",
+      "type": "1",
+      "parentCode": "",
+      "name": "台湾",
+      "shortName": "TW",
+      "children": [
+        {
+          "code": "1340000",
+          "type": "1",
+          "parentCode": "",
+          "name": "台湾",
+          "shortName": "TW"
+        }
+      ]
+    }
+  ]
+}

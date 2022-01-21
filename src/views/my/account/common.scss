@@ -1,0 +1,18 @@
+.info-title {
+  background-color: #fff;
+  padding-bottom: 20px;
+  font-family: "微软雅黑";
+  color: $--color-text-primary;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+.desc {
+  color: $--color-text-secondary;
+  font-size: 14px;
+}
+::v-deep .change-form {
+  h2 {
+    font-size: 16px;
+  }
+}

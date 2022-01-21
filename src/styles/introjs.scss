@@ -1,0 +1,15 @@
+.iep-introjs-highlight {
+  &.introjs-helperLayer {
+    background-color: #fff;
+  }
+}
+.iep-introjs-tooltip {
+  .introjs-prevbutton {
+    display: none;
+  }
+  .introjs-button {
+    &.introjs-disabled {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.v-code-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  .v-code-input {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .sms-btn {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    height: 40px;
+    border: 0;
+  }
+}
+.v-code-input ::v-deep .el-input__inner {
+  border-radius: 10px;
+}
+.sms-btn {
+  border-radius: 0 10px 10px 0;
+  color: $--color-primary;
+}
+.iep-form-detail-block ::v-deep .el-form-item {
+  margin-bottom: 30px;
+}
+.iep-form-detail-block ::v-deep .el-form-item .el-form-item__content,
+.iep-form-detail-block ::v-deep .iep-input,
+.iep-form-detail-block ::v-deep .el-input__inner,
+.iep-btn-block {
+  height: 54px;
+  font-size: 16px;
+}
+.iep-form-detail-block .input ::v-deep .el-input__inner {
+  width: 420px;
+}

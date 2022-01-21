@@ -1,0 +1,23 @@
+.user-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  .avatar {
+    width: 100px;
+    text-align: center;
+    .img {
+      width: 70px;
+      height: 70px;
+    }
+  }
+  .info {
+    .name {
+      font-size: 18px;
+      margin-bottom: 5px;
+      & > span {
+        font-size: 15px;
+        color: #aaa;
+      }
+    }
+  }
+}

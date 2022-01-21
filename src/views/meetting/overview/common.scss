@@ -1,0 +1,40 @@
+.activity-common ::v-deep .basic-container .el-table--enable-row-transition .el-table__body tr:nth-child(2n) td {
+  padding: 0;
+}
+.operation {
+  margin: 0 -50px 10px;
+  padding: 10px 0 20px 105px;
+  border-bottom: 1px solid #eff0f1;
+}
+.activity-common ::v-deep .el-table__header {
+  margin-bottom: 10px;
+}
+.activity-common ::v-deep .el-table tr:nth-child(2n) td {
+  border-bottom: 0;
+}
+.activity-common ::v-deep .el-table th.is-leaf:nth-child(1) {
+  border-radius: 10px 0 0 10px;
+}
+.activity-common ::v-deep .el-table th.is-leaf:last-child {
+  border-radius: 0 10px 10px 0;
+}
+.activity-common ::v-deep .el-table__body tr.hover-row,
+.activity-common ::v-deep .el-table--enable-row-hover .el-table__body tr:hover {
+  box-shadow: none;
+}
+.activity-common ::v-deep .el-table__body tr.hover-row > td:first-child,
+.activity-common ::v-deep .el-table__body tr > td:first-child,
+.activity-common ::v-deep .el-table--enable-row-hover .el-table__body tr:hover > td:first-child,
+.activity-common ::v-deep .el-table--enable-row-hover .el-table__body tr > td:first-child,
+.activity-common ::v-deep.el-table__body tr > td,
+.activity-common ::v-deep.el-table__body tr.hover-row > td,
+.activity-common ::v-deep .el-table--enable-row-hover .el-table__body tr > td,
+.activity-common ::v-deep .el-table--enable-row-hover .el-table__body tr:hover > td {
+  border: 0;
+}
+// .activity-common ::v-deep .el-link--inner {
+//   color: #303031;
+// }
+// .activity-common .operation ::v-deep .el-link--inner {
+//   color: $--color-text-secondary;
+// }

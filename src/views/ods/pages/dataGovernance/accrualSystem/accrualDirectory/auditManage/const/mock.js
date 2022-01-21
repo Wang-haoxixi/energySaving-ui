@@ -1,0 +1,60 @@
+export const mockData = {
+  code: 0,
+  data: {
+    records: [{
+      auditState: "2",
+      authLevel: "3",
+      content: "",
+      deptId: 964,
+      dutyCode: "11330000002482285J233101901500103",
+      dutyId: 65,
+      dutyName: "专职安全生产管理人员安全生产考核合格证书C证申领审核",
+      dutyType: "1,3",
+      dutyTypeArras: ["1", "3"],
+      orgName: "ZJ省大数据发展管理局",
+    }, {
+      auditState: "2",
+      authLevel: "2",
+      content: "",
+      deptId: 964,
+      dutyCode: "1133000000248224252331016270000",
+      dutyId: 63,
+      dutyName: "省外建筑业企业和中介服务机构备案",
+      dutyType: "1,3",
+      dutyTypeArras: ["1", "3"],
+      orgName: "ZJ省大数据发展管理局",
+    }, {
+      auditState: "2",
+      authLevel: "2",
+      content: "",
+      deptId: 964,
+      dutyCode: "121343242",
+      dutyId: 62,
+      dutyName: "公司变更登记",
+      dutyType: "1,3",
+      dutyTypeArras: ["1", "3"],
+      orgName: "ZJ省大数据发展管理局",
+    }],
+    total: 3,
+    size: 10,
+    current: 1,
+    orders: [],
+    searchCount: true,
+    pages: 1,
+  },
+};
+
+export const mockData2 = {
+  code: 0,
+  data: {
+    records: [
+      { id: 1, materialName: '法定代表人身份证', itemName: '身份证号码' },
+    ],
+    total: 2,
+    size: 10,
+    current: 1,
+    orders: [],
+    searchCount: true,
+    pages: 1,
+  },
+};

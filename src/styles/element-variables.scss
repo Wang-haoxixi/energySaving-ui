@@ -1,0 +1,20 @@
+/* 改变主题色变量 */ /* 改变主题色变量 */
+$--color-primary: $--color-primary;
+$--color-danger: $--color-primary;
+
+$--color-text-primary: $--color-text-primary;
+$--color-text-regular: $--color-text-regular;
+$--color-text-secondary: $--color-text-secondary;
+
+$--button-padding-vertical: 9px;
+$--button-padding-horizontal: 12px;
+$--button-font-size: $--button-font-size;
+
+$--input-height: $--input-height;
+
+$--border-color-base: $--border-color;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: "~element-ui/lib/theme-chalk/fonts";
+
+@import "~element-ui/packages/theme-chalk/src/index";

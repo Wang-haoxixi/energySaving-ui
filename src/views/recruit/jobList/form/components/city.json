@@ -1,0 +1,3950 @@
+{
+  "code": 0,
+  "data": [{
+      "code": "1000000",
+      "areaCode": "010",
+      "type": "1",
+      "parentCode": "",
+      "name": "北京",
+      "shortName": "BJ",
+      "children": [{
+          "code": "1000050",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "东城",
+          "shortName": "DC"
+        },
+        {
+          "code": "1000100",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "西城",
+          "shortName": "XC"
+        },
+        {
+          "code": "1000150",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "朝阳",
+          "shortName": "CY"
+        },
+        {
+          "code": "1000200",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "丰台",
+          "shortName": "FT"
+        },
+        {
+          "code": "1000250",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "石景山",
+          "shortName": "SJS"
+        },
+        {
+          "code": "1000300",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "海淀",
+          "shortName": "HD"
+        },
+        {
+          "code": "1000350",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "门头沟",
+          "shortName": "MTG"
+        },
+        {
+          "code": "1000400",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "房山",
+          "shortName": "FS"
+        },
+        {
+          "code": "1000450",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "通州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1000500",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "顺义",
+          "shortName": "SY"
+        },
+        {
+          "code": "1000550",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "昌平",
+          "shortName": "CP"
+        },
+        {
+          "code": "1000600",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "大兴",
+          "shortName": "DX"
+        },
+        {
+          "code": "1000650",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "怀柔",
+          "shortName": "HR"
+        },
+        {
+          "code": "1000700",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "平谷",
+          "shortName": "PG"
+        },
+        {
+          "code": "1000750",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "密云县",
+          "shortName": "MYX"
+        },
+        {
+          "code": "1000800",
+          "areaCode": "010",
+          "type": "2",
+          "parentCode": "1000000",
+          "name": "延庆县",
+          "shortName": "YQX"
+        }
+      ]
+    },
+    {
+      "code": "1010000",
+      "areaCode": "022",
+      "type": "1",
+      "parentCode": "",
+      "name": "天津",
+      "shortName": "TJ",
+      "children": [{
+          "code": "1010050",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "和平",
+          "shortName": "HP"
+        },
+        {
+          "code": "1010100",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河东",
+          "shortName": "HD"
+        },
+        {
+          "code": "1010150",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河西",
+          "shortName": "HX"
+        },
+        {
+          "code": "1010200",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "南开",
+          "shortName": "NK"
+        },
+        {
+          "code": "1010250",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "河北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1010300",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "红桥",
+          "shortName": "HQ"
+        },
+        {
+          "code": "1010350",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "东丽",
+          "shortName": "DL"
+        },
+        {
+          "code": "1010400",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "西青",
+          "shortName": "XQ"
+        },
+        {
+          "code": "1010450",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "津南",
+          "shortName": "JN"
+        },
+        {
+          "code": "1010500",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "北辰",
+          "shortName": "BC"
+        },
+        {
+          "code": "1010550",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "武清",
+          "shortName": "WQ"
+        },
+        {
+          "code": "1010600",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "宝坻",
+          "shortName": "BC"
+        },
+        {
+          "code": "1010650",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "滨海",
+          "shortName": "BH"
+        },
+        {
+          "code": "1010700",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "宁河县",
+          "shortName": "NHX"
+        },
+        {
+          "code": "1010750",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "静海县",
+          "shortName": "JHX"
+        },
+        {
+          "code": "1010800",
+          "areaCode": "022",
+          "type": "2",
+          "parentCode": "1010000",
+          "name": "蓟县",
+          "shortName": "JX"
+        }
+      ]
+    },
+    {
+      "code": "1020000",
+      "areaCode": "0310",
+      "type": "1",
+      "parentCode": "",
+      "name": "河北",
+      "shortName": "HB",
+      "children": [{
+          "code": "1020050",
+          "areaCode": "0311",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "石家庄",
+          "shortName": "SJZ"
+        },
+        {
+          "code": "1020100",
+          "areaCode": "0315",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "唐山",
+          "shortName": "TS"
+        },
+        {
+          "code": "1020150",
+          "areaCode": "0335",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "秦皇岛",
+          "shortName": "QHD"
+        },
+        {
+          "code": "1020200",
+          "areaCode": "0310",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "邯郸",
+          "shortName": "HD"
+        },
+        {
+          "code": "1020250",
+          "areaCode": "0319",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "邢台",
+          "shortName": "XT"
+        },
+        {
+          "code": "1020300",
+          "areaCode": "0312",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "保定",
+          "shortName": "BD"
+        },
+        {
+          "code": "1020350",
+          "areaCode": "0313",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "张家口",
+          "shortName": "ZJK"
+        },
+        {
+          "code": "1020400",
+          "areaCode": "0314",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "承德",
+          "shortName": "CD"
+        },
+        {
+          "code": "1020450",
+          "areaCode": "0317",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "沧州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1020500",
+          "areaCode": "0316",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "廊坊",
+          "shortName": "LF"
+        },
+        {
+          "code": "1020550",
+          "areaCode": "0318",
+          "type": "2",
+          "parentCode": "1020000",
+          "name": "衡水",
+          "shortName": "HS"
+        }
+      ]
+    },
+    {
+      "code": "1030000",
+      "areaCode": "0350",
+      "type": "1",
+      "parentCode": "",
+      "name": "山西",
+      "shortName": "SX",
+      "children": [{
+          "code": "1030050",
+          "areaCode": "0351",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "太原",
+          "shortName": "TY"
+        },
+        {
+          "code": "1030100",
+          "areaCode": "0352",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "大同",
+          "shortName": "DT"
+        },
+        {
+          "code": "1030150",
+          "areaCode": "0353",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "阳泉",
+          "shortName": "YQ"
+        },
+        {
+          "code": "1030200",
+          "areaCode": "0355",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "长治",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1030250",
+          "areaCode": "0356",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "晋城",
+          "shortName": "JC"
+        },
+        {
+          "code": "1030300",
+          "areaCode": "0349",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "朔州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1030350",
+          "areaCode": "0354",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "晋中",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1030400",
+          "areaCode": "0359",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "运城",
+          "shortName": "YC"
+        },
+        {
+          "code": "1030450",
+          "areaCode": "0350",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "忻州",
+          "shortName": "XZ"
+        },
+        {
+          "code": "1030500",
+          "areaCode": "0357",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "临汾",
+          "shortName": "LF"
+        },
+        {
+          "code": "1030550",
+          "areaCode": "0358",
+          "type": "2",
+          "parentCode": "1030000",
+          "name": "吕梁",
+          "shortName": "LL"
+        }
+      ]
+    },
+    {
+      "code": "1040000",
+      "areaCode": "0358",
+      "type": "1",
+      "parentCode": "",
+      "name": "内蒙古",
+      "shortName": "NMG",
+      "children": [{
+          "code": "1040050",
+          "areaCode": "0471",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "呼和浩特",
+          "shortName": "HHHT"
+        },
+        {
+          "code": "1040100",
+          "areaCode": "0472",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "包头",
+          "shortName": "BT"
+        },
+        {
+          "code": "1040150",
+          "areaCode": "0473",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "乌海",
+          "shortName": "WH"
+        },
+        {
+          "code": "1040200",
+          "areaCode": "0476",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "赤峰",
+          "shortName": "CF"
+        },
+        {
+          "code": "1040250",
+          "areaCode": "0475",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "通辽",
+          "shortName": "TL"
+        },
+        {
+          "code": "1040300",
+          "areaCode": "0477",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "鄂尔多斯",
+          "shortName": "EEDS"
+        },
+        {
+          "code": "1040350",
+          "areaCode": "0470",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "呼伦贝尔",
+          "shortName": "HLBE"
+        },
+        {
+          "code": "1040400",
+          "areaCode": "0478",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "巴彦淖尔",
+          "shortName": "BYNE"
+        },
+        {
+          "code": "1040450",
+          "areaCode": "0474",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "乌兰察布",
+          "shortName": "WLCB"
+        },
+        {
+          "code": "1040500",
+          "areaCode": "0482",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "兴安",
+          "shortName": "XA"
+        },
+        {
+          "code": "1040550",
+          "areaCode": "0479",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "锡林郭勒",
+          "shortName": "XLGL"
+        },
+        {
+          "code": "1040600",
+          "areaCode": "0483",
+          "type": "2",
+          "parentCode": "1040000",
+          "name": "阿拉善",
+          "shortName": "ALS"
+        }
+      ]
+    },
+    {
+      "code": "1050000",
+      "areaCode": "024",
+      "type": "1",
+      "parentCode": "",
+      "name": "辽宁",
+      "shortName": "LN",
+      "children": [{
+          "code": "1050050",
+          "areaCode": "024",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "沈阳",
+          "shortName": "SY"
+        },
+        {
+          "code": "1050100",
+          "areaCode": "0411",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "大连",
+          "shortName": "DL"
+        },
+        {
+          "code": "1050150",
+          "areaCode": "0412",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "鞍山",
+          "shortName": "AS"
+        },
+        {
+          "code": "1050200",
+          "areaCode": "0413",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "抚顺",
+          "shortName": "FS"
+        },
+        {
+          "code": "1050250",
+          "areaCode": "0414",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "本溪",
+          "shortName": "BX"
+        },
+        {
+          "code": "1050300",
+          "areaCode": "0415",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "丹东",
+          "shortName": "DD"
+        },
+        {
+          "code": "1050350",
+          "areaCode": "0416",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "锦州",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1050400",
+          "areaCode": "0417",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "营口",
+          "shortName": "YK"
+        },
+        {
+          "code": "1050450",
+          "areaCode": "0418",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "阜新",
+          "shortName": "FX"
+        },
+        {
+          "code": "1050500",
+          "areaCode": "0419",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "辽阳",
+          "shortName": "LY"
+        },
+        {
+          "code": "1050550",
+          "areaCode": "0427",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "盘锦",
+          "shortName": "PJ"
+        },
+        {
+          "code": "1050600",
+          "areaCode": "0410",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "铁岭",
+          "shortName": "TL"
+        },
+        {
+          "code": "1050650",
+          "areaCode": "0421",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "朝阳",
+          "shortName": "CY"
+        },
+        {
+          "code": "1050700",
+          "areaCode": "0429",
+          "type": "2",
+          "parentCode": "1050000",
+          "name": "葫芦岛",
+          "shortName": "HLD"
+        }
+      ]
+    },
+    {
+      "code": "1060000",
+      "areaCode": "0431",
+      "type": "1",
+      "parentCode": "",
+      "name": "吉林",
+      "shortName": "JL",
+      "children": [{
+          "code": "1060050",
+          "areaCode": "0431",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "长春",
+          "shortName": "ZC"
+        },
+        {
+          "code": "1060100",
+          "areaCode": "0432",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "吉林",
+          "shortName": "JL"
+        },
+        {
+          "code": "1060150",
+          "areaCode": "0434",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "四平",
+          "shortName": "SP"
+        },
+        {
+          "code": "1060200",
+          "areaCode": "0437",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "辽源",
+          "shortName": "LY"
+        },
+        {
+          "code": "1060250",
+          "areaCode": "0435",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "通化",
+          "shortName": "TH"
+        },
+        {
+          "code": "1060300",
+          "areaCode": "0439",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "白山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1060350",
+          "areaCode": "0438",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "松原",
+          "shortName": "SY"
+        },
+        {
+          "code": "1060400",
+          "areaCode": "0436",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "白城",
+          "shortName": "BC"
+        },
+        {
+          "code": "1060450",
+          "areaCode": "0433",
+          "type": "2",
+          "parentCode": "1060000",
+          "name": "延边",
+          "shortName": "YB"
+        }
+      ]
+    },
+    {
+      "code": "1070000",
+      "areaCode": "0451",
+      "type": "1",
+      "parentCode": "",
+      "name": "黑龙江",
+      "shortName": "HLJ",
+      "children": [{
+          "code": "1070050",
+          "areaCode": "0451",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "哈尔滨",
+          "shortName": "HEB"
+        },
+        {
+          "code": "1070100",
+          "areaCode": "0452",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "齐齐哈尔",
+          "shortName": "QQHE"
+        },
+        {
+          "code": "1070150",
+          "areaCode": "0467",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "鸡西",
+          "shortName": "JX"
+        },
+        {
+          "code": "1070200",
+          "areaCode": "0468",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "鹤岗",
+          "shortName": "HG"
+        },
+        {
+          "code": "1070250",
+          "areaCode": "0469",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "双鸭山",
+          "shortName": "SYS"
+        },
+        {
+          "code": "1070300",
+          "areaCode": "0459",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "大庆",
+          "shortName": "DQ"
+        },
+        {
+          "code": "1070350",
+          "areaCode": "0458",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "伊春",
+          "shortName": "YC"
+        },
+        {
+          "code": "1070400",
+          "areaCode": "0454",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "佳木斯",
+          "shortName": "JMS"
+        },
+        {
+          "code": "1070450",
+          "areaCode": "0464",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "七台河",
+          "shortName": "QTH"
+        },
+        {
+          "code": "1070500",
+          "areaCode": "0453",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "牡丹江",
+          "shortName": "MDJ"
+        },
+        {
+          "code": "1070550",
+          "areaCode": "0456",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "黑河",
+          "shortName": "HH"
+        },
+        {
+          "code": "1070600",
+          "areaCode": "0455",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "绥化",
+          "shortName": "SH"
+        },
+        {
+          "code": "1070650",
+          "areaCode": "0457",
+          "type": "2",
+          "parentCode": "1070000",
+          "name": "大兴安岭",
+          "shortName": "DXAL"
+        }
+      ]
+    },
+    {
+      "code": "1080000",
+      "areaCode": "021",
+      "type": "1",
+      "parentCode": "",
+      "name": "上海",
+      "shortName": "SH",
+      "children": [{
+          "code": "1080050",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "黄浦",
+          "shortName": "HP"
+        },
+        {
+          "code": "1080100",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "卢湾",
+          "shortName": "LW"
+        },
+        {
+          "code": "1080150",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "徐汇",
+          "shortName": "XH"
+        },
+        {
+          "code": "1080200",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "长宁",
+          "shortName": "ZN"
+        },
+        {
+          "code": "1080250",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "静安",
+          "shortName": "JA"
+        },
+        {
+          "code": "1080300",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "普陀",
+          "shortName": "PT"
+        },
+        {
+          "code": "1080350",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "闸北",
+          "shortName": "ZB"
+        },
+        {
+          "code": "1080400",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "虹口",
+          "shortName": "HK"
+        },
+        {
+          "code": "1080450",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "杨浦",
+          "shortName": "YP"
+        },
+        {
+          "code": "1080500",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "闵行",
+          "shortName": "MX"
+        },
+        {
+          "code": "1080550",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "宝山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1080600",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "嘉定",
+          "shortName": "JD"
+        },
+        {
+          "code": "1080650",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "浦东",
+          "shortName": "PD"
+        },
+        {
+          "code": "1080700",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "金山",
+          "shortName": "JS"
+        },
+        {
+          "code": "1080750",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "松江",
+          "shortName": "SJ"
+        },
+        {
+          "code": "1080800",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "青浦",
+          "shortName": "QP"
+        },
+        {
+          "code": "1080850",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "奉贤",
+          "shortName": "FX"
+        },
+        {
+          "code": "1080900",
+          "areaCode": "021",
+          "type": "2",
+          "parentCode": "1080000",
+          "name": "崇明县",
+          "shortName": "CMX"
+        }
+      ]
+    },
+    {
+      "code": "1090000",
+      "areaCode": "025",
+      "type": "1",
+      "parentCode": "",
+      "name": "江苏",
+      "shortName": "JS",
+      "children": [{
+          "code": "1090050",
+          "areaCode": "025",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "南京",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1090100",
+          "areaCode": "0510",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "无锡",
+          "shortName": "WX"
+        },
+        {
+          "code": "1090150",
+          "areaCode": "0516",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "徐州",
+          "shortName": "XZ"
+        },
+        {
+          "code": "1090200",
+          "areaCode": "0519",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "常州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1090250",
+          "areaCode": "0512",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "苏州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1090300",
+          "areaCode": "0513",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "南通",
+          "shortName": "NT"
+        },
+        {
+          "code": "1090350",
+          "areaCode": "0518",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "连云港",
+          "shortName": "LYG"
+        },
+        {
+          "code": "1090400",
+          "areaCode": "0517",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "淮安",
+          "shortName": "HA"
+        },
+        {
+          "code": "1090450",
+          "areaCode": "0515",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "盐城",
+          "shortName": "YC"
+        },
+        {
+          "code": "1090500",
+          "areaCode": "0514",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "扬州",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1090550",
+          "areaCode": "0511",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "镇江",
+          "shortName": "ZJ"
+        },
+        {
+          "code": "1090600",
+          "areaCode": "0523",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "泰州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1090650",
+          "areaCode": "0527",
+          "type": "2",
+          "parentCode": "1090000",
+          "name": "宿迁",
+          "shortName": "SQ"
+        }
+      ]
+    },
+    {
+      "code": "1100000",
+      "areaCode": "0571",
+      "type": "1",
+      "parentCode": "",
+      "name": "浙江",
+      "shortName": "ZJ",
+      "children": [{
+          "code": "1100050",
+          "areaCode": "0571",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "杭州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1100100",
+          "areaCode": "0574",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "宁波",
+          "shortName": "NB"
+        },
+        {
+          "code": "1100150",
+          "areaCode": "0577",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "温州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1100200",
+          "areaCode": "0573",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "嘉兴",
+          "shortName": "JX"
+        },
+        {
+          "code": "1100250",
+          "areaCode": "0572",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "湖州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1100300",
+          "areaCode": "0575",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "绍兴",
+          "shortName": "SX"
+        },
+        {
+          "code": "1100350",
+          "areaCode": "0579",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "金华",
+          "shortName": "JH"
+        },
+        {
+          "code": "1100400",
+          "areaCode": "0570",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "衢州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1100450",
+          "areaCode": "0580",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "舟山",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1100500",
+          "areaCode": "0576",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "台州",
+          "shortName": "TZ"
+        },
+        {
+          "code": "1100550",
+          "areaCode": "0578",
+          "type": "2",
+          "parentCode": "1100000",
+          "name": "丽水",
+          "shortName": "LS"
+        }
+      ]
+    },
+    {
+      "code": "1110000",
+      "areaCode": "0551",
+      "type": "1",
+      "parentCode": "",
+      "name": "安徽",
+      "shortName": "AH",
+      "children": [{
+          "code": "1110050",
+          "areaCode": "0551",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "合肥",
+          "shortName": "HF"
+        },
+        {
+          "code": "1110100",
+          "areaCode": "0553",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "芜湖",
+          "shortName": "WH"
+        },
+        {
+          "code": "1110150",
+          "areaCode": "0552",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "蚌埠",
+          "shortName": "BB"
+        },
+        {
+          "code": "1110200",
+          "areaCode": "0554",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "淮南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1110250",
+          "areaCode": "0555",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "马鞍山",
+          "shortName": "MAS"
+        },
+        {
+          "code": "1110300",
+          "areaCode": "0561",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "淮北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1110350",
+          "areaCode": "0562",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "铜陵",
+          "shortName": "TL"
+        },
+        {
+          "code": "1110400",
+          "areaCode": "0556",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "安庆",
+          "shortName": "AQ"
+        },
+        {
+          "code": "1110450",
+          "areaCode": "0559",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "黄山",
+          "shortName": "HS"
+        },
+        {
+          "code": "1110500",
+          "areaCode": "0550",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "滁州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1110550",
+          "areaCode": "0558",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "阜阳",
+          "shortName": "FY"
+        },
+        {
+          "code": "1110600",
+          "areaCode": "0557",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "宿州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1110650",
+          "areaCode": "0565",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "巢湖",
+          "shortName": "CH"
+        },
+        {
+          "code": "1110700",
+          "areaCode": "0564",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "六安",
+          "shortName": "LA"
+        },
+        {
+          "code": "1110750",
+          "areaCode": "0558",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "亳州",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1110800",
+          "areaCode": "0566",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "池州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1110850",
+          "areaCode": "0563",
+          "type": "2",
+          "parentCode": "1110000",
+          "name": "宣城",
+          "shortName": "XC"
+        }
+      ]
+    },
+    {
+      "code": "1120000",
+      "areaCode": "0591",
+      "type": "1",
+      "parentCode": "",
+      "name": "福建",
+      "shortName": "FJ",
+      "children": [{
+          "code": "1120050",
+          "areaCode": "0591",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "福州",
+          "shortName": "FZ"
+        },
+        {
+          "code": "1120100",
+          "areaCode": "0592",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "厦门",
+          "shortName": "SM"
+        },
+        {
+          "code": "1120150",
+          "areaCode": "0594",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "莆田",
+          "shortName": "PT"
+        },
+        {
+          "code": "1120200",
+          "areaCode": "0598",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "三明",
+          "shortName": "SM"
+        },
+        {
+          "code": "1120250",
+          "areaCode": "0595",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "泉州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1120300",
+          "areaCode": "0596",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "漳州",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1120350",
+          "areaCode": "0599",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "南平",
+          "shortName": "NP"
+        },
+        {
+          "code": "1120400",
+          "areaCode": "0597",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "龙岩",
+          "shortName": "LY"
+        },
+        {
+          "code": "1120450",
+          "areaCode": "0593",
+          "type": "2",
+          "parentCode": "1120000",
+          "name": "宁德",
+          "shortName": "ND"
+        }
+      ]
+    },
+    {
+      "code": "1130000",
+      "areaCode": "0791",
+      "type": "1",
+      "parentCode": "",
+      "name": "江西",
+      "shortName": "JX",
+      "children": [{
+          "code": "1130050",
+          "areaCode": "0791",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "南昌",
+          "shortName": "NC"
+        },
+        {
+          "code": "1130100",
+          "areaCode": "0798",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "景德镇",
+          "shortName": "JDZ"
+        },
+        {
+          "code": "1130150",
+          "areaCode": "0799",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "萍乡",
+          "shortName": "PX"
+        },
+        {
+          "code": "1130200",
+          "areaCode": "0792",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "九江",
+          "shortName": "JJ"
+        },
+        {
+          "code": "1130250",
+          "areaCode": "0790",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "新余",
+          "shortName": "XY"
+        },
+        {
+          "code": "1130300",
+          "areaCode": "0701",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "鹰潭",
+          "shortName": "YT"
+        },
+        {
+          "code": "1130350",
+          "areaCode": "0797",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "赣州",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1130400",
+          "areaCode": "0796",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "吉安",
+          "shortName": "JA"
+        },
+        {
+          "code": "1130450",
+          "areaCode": "0795",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "宜春",
+          "shortName": "YC"
+        },
+        {
+          "code": "1130500",
+          "areaCode": "0794",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "抚州",
+          "shortName": "FZ"
+        },
+        {
+          "code": "1130550",
+          "areaCode": "0793",
+          "type": "2",
+          "parentCode": "1130000",
+          "name": "上饶",
+          "shortName": "SR"
+        }
+      ]
+    },
+    {
+      "code": "1140000",
+      "areaCode": "0531",
+      "type": "1",
+      "parentCode": "",
+      "name": "山东",
+      "shortName": "SD",
+      "children": [{
+          "code": "1140050",
+          "areaCode": "0531",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "济南",
+          "shortName": "JN"
+        },
+        {
+          "code": "1140100",
+          "areaCode": "0532",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "青岛",
+          "shortName": "QD"
+        },
+        {
+          "code": "1140150",
+          "areaCode": "0533",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "淄博",
+          "shortName": "ZB"
+        },
+        {
+          "code": "1140200",
+          "areaCode": "0632",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "枣庄",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1140250",
+          "areaCode": "0546",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "东营",
+          "shortName": "DY"
+        },
+        {
+          "code": "1140300",
+          "areaCode": "0535",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "烟台",
+          "shortName": "YT"
+        },
+        {
+          "code": "1140350",
+          "areaCode": "0536",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "潍坊",
+          "shortName": "WF"
+        },
+        {
+          "code": "1140400",
+          "areaCode": "0537",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "济宁",
+          "shortName": "JN"
+        },
+        {
+          "code": "1140450",
+          "areaCode": "0538",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "泰安",
+          "shortName": "TA"
+        },
+        {
+          "code": "1140500",
+          "areaCode": "0631",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "威海",
+          "shortName": "WH"
+        },
+        {
+          "code": "1140550",
+          "areaCode": "0633",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "日照",
+          "shortName": "RZ"
+        },
+        {
+          "code": "1140600",
+          "areaCode": "0531",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "莱芜",
+          "shortName": "LW"
+        },
+        {
+          "code": "1140650",
+          "areaCode": "0539",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "临沂",
+          "shortName": "LY"
+        },
+        {
+          "code": "1140700",
+          "areaCode": "0534",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "德州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1140750",
+          "areaCode": "0635",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "聊城",
+          "shortName": "LC"
+        },
+        {
+          "code": "1140800",
+          "areaCode": "0543",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "滨州",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1140850",
+          "areaCode": "0530",
+          "type": "2",
+          "parentCode": "1140000",
+          "name": "菏泽",
+          "shortName": "HZ"
+        }
+      ]
+    },
+    {
+      "code": "1150000",
+      "areaCode": "0371",
+      "type": "1",
+      "parentCode": "",
+      "name": "河南",
+      "shortName": "HN",
+      "children": [{
+          "code": "1150050",
+          "areaCode": "0371",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "郑州",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1150100",
+          "areaCode": "0378",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "开封",
+          "shortName": "KF"
+        },
+        {
+          "code": "1150150",
+          "areaCode": "0379",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "洛阳",
+          "shortName": "LY"
+        },
+        {
+          "code": "1150200",
+          "areaCode": "0375",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "平顶山",
+          "shortName": "PDS"
+        },
+        {
+          "code": "1150250",
+          "areaCode": "0372",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "安阳",
+          "shortName": "AY"
+        },
+        {
+          "code": "1150300",
+          "areaCode": "0392",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "鹤壁",
+          "shortName": "HB"
+        },
+        {
+          "code": "1150350",
+          "areaCode": "0373",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "新乡",
+          "shortName": "XX"
+        },
+        {
+          "code": "1150400",
+          "areaCode": "0391",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "焦作",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1150450",
+          "areaCode": "0393",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "濮阳",
+          "shortName": "PY"
+        },
+        {
+          "code": "1150500",
+          "areaCode": "0374",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "许昌",
+          "shortName": "XC"
+        },
+        {
+          "code": "1150550",
+          "areaCode": "0395",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "漯河",
+          "shortName": "LH"
+        },
+        {
+          "code": "1150600",
+          "areaCode": "0398",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "三门峡",
+          "shortName": "SMX"
+        },
+        {
+          "code": "1150650",
+          "areaCode": "0377",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "南阳",
+          "shortName": "NY"
+        },
+        {
+          "code": "1150700",
+          "areaCode": "0370",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "商丘",
+          "shortName": "SQ"
+        },
+        {
+          "code": "1150750",
+          "areaCode": "0376",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "信阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1150800",
+          "areaCode": "0394",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "周口",
+          "shortName": "ZK"
+        },
+        {
+          "code": "1150850",
+          "areaCode": "0396",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "驻马店",
+          "shortName": "ZMD"
+        },
+        {
+          "code": "1150900",
+          "areaCode": "0391",
+          "type": "2",
+          "parentCode": "1150000",
+          "name": "济源",
+          "shortName": "JY"
+        }
+      ]
+    },
+    {
+      "code": "1160000",
+      "areaCode": "027",
+      "type": "1",
+      "parentCode": "",
+      "name": "湖北",
+      "shortName": "HB",
+      "children": [{
+          "code": "1160050",
+          "areaCode": "027",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "武汉",
+          "shortName": "WH"
+        },
+        {
+          "code": "1160100",
+          "areaCode": "0714",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "黄石",
+          "shortName": "HS"
+        },
+        {
+          "code": "1160150",
+          "areaCode": "0719",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "十堰",
+          "shortName": "SY"
+        },
+        {
+          "code": "1160200",
+          "areaCode": "0717",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "宜昌",
+          "shortName": "YC"
+        },
+        {
+          "code": "1160250",
+          "areaCode": "0710",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "襄阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1160300",
+          "areaCode": "0711",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "鄂州",
+          "shortName": "EZ"
+        },
+        {
+          "code": "1160350",
+          "areaCode": "0724",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "荆门",
+          "shortName": "JM"
+        },
+        {
+          "code": "1160400",
+          "areaCode": "0712",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "孝感",
+          "shortName": "XG"
+        },
+        {
+          "code": "1160450",
+          "areaCode": "0716",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "荆州",
+          "shortName": "JZ"
+        },
+        {
+          "code": "1160500",
+          "areaCode": "0713",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "黄冈",
+          "shortName": "HG"
+        },
+        {
+          "code": "1160550",
+          "areaCode": "0715",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "咸宁",
+          "shortName": "XN"
+        },
+        {
+          "code": "1160600",
+          "areaCode": "0722",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "随州",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1160650",
+          "areaCode": "0718",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "恩施",
+          "shortName": "ES"
+        },
+        {
+          "code": "1160700",
+          "areaCode": "0728",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "潜江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1160750",
+          "areaCode": "0728",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "仙桃",
+          "shortName": "XT"
+        },
+        {
+          "code": "1160800",
+          "areaCode": "0728",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "天门",
+          "shortName": "TM"
+        },
+        {
+          "code": "1160850",
+          "areaCode": "0719",
+          "type": "2",
+          "parentCode": "1160000",
+          "name": "神农架",
+          "shortName": "SNJ"
+        }
+      ]
+    },
+    {
+      "code": "1170000",
+      "areaCode": "0731",
+      "type": "1",
+      "parentCode": "",
+      "name": "湖南",
+      "shortName": "HN",
+      "children": [{
+          "code": "1170050",
+          "areaCode": "0731",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "长沙",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1170100",
+          "areaCode": "0733",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "株洲",
+          "shortName": "ZZ"
+        },
+        {
+          "code": "1170150",
+          "areaCode": "0732",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "湘潭",
+          "shortName": "XT"
+        },
+        {
+          "code": "1170200",
+          "areaCode": "0734",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "衡阳",
+          "shortName": "HY"
+        },
+        {
+          "code": "1170250",
+          "areaCode": "0739",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "邵阳",
+          "shortName": "SY"
+        },
+        {
+          "code": "1170300",
+          "areaCode": "0730",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "岳阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1170350",
+          "areaCode": "0736",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "常德",
+          "shortName": "CD"
+        },
+        {
+          "code": "1170400",
+          "areaCode": "0744",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "张家界",
+          "shortName": "ZJJ"
+        },
+        {
+          "code": "1170450",
+          "areaCode": "0737",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "益阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1170500",
+          "areaCode": "0735",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "郴州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1170550",
+          "areaCode": "0746",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "永州",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1170600",
+          "areaCode": "0745",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "怀化",
+          "shortName": "HH"
+        },
+        {
+          "code": "1170650",
+          "areaCode": "0738",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "娄底",
+          "shortName": "LD"
+        },
+        {
+          "code": "1170700",
+          "areaCode": "0743",
+          "type": "2",
+          "parentCode": "1170000",
+          "name": "湘西",
+          "shortName": "XX"
+        }
+      ]
+    },
+    {
+      "code": "1180000",
+      "areaCode": "020",
+      "type": "1",
+      "parentCode": "",
+      "name": "广东",
+      "shortName": "GD",
+      "children": [{
+          "code": "1180050",
+          "areaCode": "020",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "广州",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1180100",
+          "areaCode": "0751",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "韶关",
+          "shortName": "SG"
+        },
+        {
+          "code": "1180150",
+          "areaCode": "0755",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "深圳",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1180200",
+          "areaCode": "0756",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "珠海",
+          "shortName": "ZH"
+        },
+        {
+          "code": "1180250",
+          "areaCode": "0754",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "汕头",
+          "shortName": "ST"
+        },
+        {
+          "code": "1180300",
+          "areaCode": "0757",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "佛山",
+          "shortName": "FS"
+        },
+        {
+          "code": "1180350",
+          "areaCode": "0750",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "江门",
+          "shortName": "JM"
+        },
+        {
+          "code": "1180400",
+          "areaCode": "0759",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "湛江",
+          "shortName": "ZJ"
+        },
+        {
+          "code": "1180450",
+          "areaCode": "0668",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "茂名",
+          "shortName": "MM"
+        },
+        {
+          "code": "1180500",
+          "areaCode": "0758",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "肇庆",
+          "shortName": "ZQ"
+        },
+        {
+          "code": "1180550",
+          "areaCode": "0752",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "惠州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1180600",
+          "areaCode": "0753",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "梅州",
+          "shortName": "MZ"
+        },
+        {
+          "code": "1180650",
+          "areaCode": "0660",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "汕尾",
+          "shortName": "SW"
+        },
+        {
+          "code": "1180700",
+          "areaCode": "0762",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "河源",
+          "shortName": "HY"
+        },
+        {
+          "code": "1180750",
+          "areaCode": "0662",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "阳江",
+          "shortName": "YJ"
+        },
+        {
+          "code": "1180800",
+          "areaCode": "0763",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "清远",
+          "shortName": "QY"
+        },
+        {
+          "code": "1180850",
+          "areaCode": "0769",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "东莞",
+          "shortName": "DG"
+        },
+        {
+          "code": "1180900",
+          "areaCode": "0760",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "中山",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1180950",
+          "areaCode": "0660",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "东沙群岛",
+          "shortName": "DSQD"
+        },
+        {
+          "code": "1181000",
+          "areaCode": "0768",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "潮州",
+          "shortName": "CZ"
+        },
+        {
+          "code": "1181050",
+          "areaCode": "0663",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "揭阳",
+          "shortName": "JY"
+        },
+        {
+          "code": "1181100",
+          "areaCode": "0766",
+          "type": "2",
+          "parentCode": "1180000",
+          "name": "云浮",
+          "shortName": "YF"
+        }
+      ]
+    },
+    {
+      "code": "1190000",
+      "areaCode": "0771",
+      "type": "1",
+      "parentCode": "",
+      "name": "广西",
+      "shortName": "GX",
+      "children": [{
+          "code": "1190050",
+          "areaCode": "0771",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "南宁",
+          "shortName": "NN"
+        },
+        {
+          "code": "1190100",
+          "areaCode": "0772",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "柳州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1190150",
+          "areaCode": "0773",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "桂林",
+          "shortName": "GL"
+        },
+        {
+          "code": "1190200",
+          "areaCode": "0774",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "梧州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1190250",
+          "areaCode": "0779",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "北海",
+          "shortName": "BH"
+        },
+        {
+          "code": "1190300",
+          "areaCode": "0770",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "防城港",
+          "shortName": "FCG"
+        },
+        {
+          "code": "1190350",
+          "areaCode": "0777",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "钦州",
+          "shortName": "QZ"
+        },
+        {
+          "code": "1190400",
+          "areaCode": "0775",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "贵港",
+          "shortName": "GG"
+        },
+        {
+          "code": "1190450",
+          "areaCode": "0775",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "玉林",
+          "shortName": "YL"
+        },
+        {
+          "code": "1190500",
+          "areaCode": "0776",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "百色",
+          "shortName": "BS"
+        },
+        {
+          "code": "1190550",
+          "areaCode": "0774",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "贺州",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1190600",
+          "areaCode": "0778",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "河池",
+          "shortName": "HC"
+        },
+        {
+          "code": "1190650",
+          "areaCode": "0772",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "来宾",
+          "shortName": "LB"
+        },
+        {
+          "code": "1190700",
+          "areaCode": "0771",
+          "type": "2",
+          "parentCode": "1190000",
+          "name": "崇左",
+          "shortName": "CZ"
+        }
+      ]
+    },
+    {
+      "code": "1200000",
+      "areaCode": "0898",
+      "type": "1",
+      "parentCode": "",
+      "name": "海南",
+      "shortName": "HN",
+      "children": [{
+          "code": "1200050",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "海口",
+          "shortName": "HK"
+        },
+        {
+          "code": "1200100",
+          "areaCode": "0899",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "三亚",
+          "shortName": "SY"
+        },
+        {
+          "code": "1200150",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "临高县",
+          "shortName": "LGX"
+        },
+        {
+          "code": "1200200",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "儋州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1200250",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "屯昌县",
+          "shortName": "TCX"
+        },
+        {
+          "code": "1200300",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "定安县",
+          "shortName": "DAX"
+        },
+        {
+          "code": "1200350",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "澄迈县",
+          "shortName": "CMX"
+        },
+        {
+          "code": "1200400",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "文昌",
+          "shortName": "WC"
+        },
+        {
+          "code": "1200450",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "琼海",
+          "shortName": "QH"
+        },
+        {
+          "code": "1200500",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "万宁",
+          "shortName": "WN"
+        },
+        {
+          "code": "1200550",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "琼中县",
+          "shortName": "QZX"
+        },
+        {
+          "code": "1200600",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "保亭县",
+          "shortName": "BTX"
+        },
+        {
+          "code": "1200650",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "五指山",
+          "shortName": "WZS"
+        },
+        {
+          "code": "1200700",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "白沙县",
+          "shortName": "BSX"
+        },
+        {
+          "code": "1200750",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "东方",
+          "shortName": "DF"
+        },
+        {
+          "code": "1200800",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "昌江县",
+          "shortName": "CJX"
+        },
+        {
+          "code": "1200850",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "乐东县",
+          "shortName": "LDX"
+        },
+        {
+          "code": "1200900",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "陵水县",
+          "shortName": "LSX"
+        },
+        {
+          "code": "1200950",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "西沙群岛",
+          "shortName": "XSQD"
+        },
+        {
+          "code": "1201000",
+          "areaCode": "0898",
+          "type": "2",
+          "parentCode": "1200000",
+          "name": "南沙群岛",
+          "shortName": "NSQD"
+        }
+      ]
+    },
+    {
+      "code": "1210000",
+      "areaCode": "023",
+      "type": "1",
+      "parentCode": "",
+      "name": "重庆",
+      "shortName": "ZQ",
+      "children": [{
+          "code": "1210050",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "万州",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1210100",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "涪陵",
+          "shortName": "FL"
+        },
+        {
+          "code": "1210150",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "渝中",
+          "shortName": "YZ"
+        },
+        {
+          "code": "1210200",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "大渡口",
+          "shortName": "DDK"
+        },
+        {
+          "code": "1210250",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "江北",
+          "shortName": "JB"
+        },
+        {
+          "code": "1210300",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "沙坪坝",
+          "shortName": "SPB"
+        },
+        {
+          "code": "1210350",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "九龙坡",
+          "shortName": "JLP"
+        },
+        {
+          "code": "1210400",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "南岸",
+          "shortName": "NA"
+        },
+        {
+          "code": "1210450",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "北碚",
+          "shortName": "BB"
+        },
+        {
+          "code": "1210500",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "万盛",
+          "shortName": "WS"
+        },
+        {
+          "code": "1210550",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "双桥",
+          "shortName": "SQ"
+        },
+        {
+          "code": "1210600",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "渝北",
+          "shortName": "YB"
+        },
+        {
+          "code": "1210650",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巴南",
+          "shortName": "BN"
+        },
+        {
+          "code": "1210700",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "黔江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1210750",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "长寿",
+          "shortName": "ZS"
+        },
+        {
+          "code": "1210800",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "江津",
+          "shortName": "JJ"
+        },
+        {
+          "code": "1210850",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "合川",
+          "shortName": "HC"
+        },
+        {
+          "code": "1210900",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "永川",
+          "shortName": "YC"
+        },
+        {
+          "code": "1210950",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "南川",
+          "shortName": "NC"
+        },
+        {
+          "code": "1211000",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "綦江",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1211050",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "潼南",
+          "shortName": "TN"
+        },
+        {
+          "code": "1211100",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "铜梁",
+          "shortName": "TL"
+        },
+        {
+          "code": "1211150",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "大足",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1211200",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "荣昌",
+          "shortName": "RC"
+        },
+        {
+          "code": "1211250",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "璧山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1211300",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "梁平",
+          "shortName": "LP"
+        },
+        {
+          "code": "1211350",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "城口",
+          "shortName": "CK"
+        },
+        {
+          "code": "1211400",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "丰都",
+          "shortName": "FD"
+        },
+        {
+          "code": "1211450",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "垫江",
+          "shortName": "DJ"
+        },
+        {
+          "code": "1211500",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "武隆",
+          "shortName": "WL"
+        },
+        {
+          "code": "1211550",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "忠县",
+          "shortName": "ZX"
+        },
+        {
+          "code": "1211600",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "开县",
+          "shortName": "KX"
+        },
+        {
+          "code": "1211650",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "云阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1211700",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "奉节",
+          "shortName": "FJ"
+        },
+        {
+          "code": "1211750",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巫山",
+          "shortName": "WS"
+        },
+        {
+          "code": "1211800",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "巫溪",
+          "shortName": "WX"
+        },
+        {
+          "code": "1211850",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "石柱",
+          "shortName": "SZ"
+        },
+        {
+          "code": "1211900",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "秀山",
+          "shortName": "XS"
+        },
+        {
+          "code": "1211950",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "酉阳",
+          "shortName": "YY"
+        },
+        {
+          "code": "1212000",
+          "areaCode": "023",
+          "type": "2",
+          "parentCode": "1210000",
+          "name": "彭水",
+          "shortName": "PS"
+        }
+      ]
+    },
+    {
+      "code": "1220000",
+      "areaCode": "028",
+      "type": "1",
+      "parentCode": "",
+      "name": "四川",
+      "shortName": "SC",
+      "children": [{
+          "code": "1220050",
+          "areaCode": "028",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "成都",
+          "shortName": "CD"
+        },
+        {
+          "code": "1220100",
+          "areaCode": "0813",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "自贡",
+          "shortName": "ZG"
+        },
+        {
+          "code": "1220150",
+          "areaCode": "0812",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "攀枝花",
+          "shortName": "PZH"
+        },
+        {
+          "code": "1220200",
+          "areaCode": "0830",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "泸州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1220250",
+          "areaCode": "0838",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "德阳",
+          "shortName": "DY"
+        },
+        {
+          "code": "1220300",
+          "areaCode": "0816",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "绵阳",
+          "shortName": "MY"
+        },
+        {
+          "code": "1220350",
+          "areaCode": "0839",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "广元",
+          "shortName": "GY"
+        },
+        {
+          "code": "1220400",
+          "areaCode": "0825",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "遂宁",
+          "shortName": "SN"
+        },
+        {
+          "code": "1220450",
+          "areaCode": "0832",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "内江",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1220500",
+          "areaCode": "0833",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "乐山",
+          "shortName": "LS"
+        },
+        {
+          "code": "1220550",
+          "areaCode": "0817",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "南充",
+          "shortName": "NC"
+        },
+        {
+          "code": "1220600",
+          "areaCode": "028",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "眉山",
+          "shortName": "MS"
+        },
+        {
+          "code": "1220650",
+          "areaCode": "0831",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "宜宾",
+          "shortName": "YB"
+        },
+        {
+          "code": "1220700",
+          "areaCode": "0826",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "广安",
+          "shortName": "GA"
+        },
+        {
+          "code": "1220750",
+          "areaCode": "0818",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "达州",
+          "shortName": "DZ"
+        },
+        {
+          "code": "1220800",
+          "areaCode": "0835",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "雅安",
+          "shortName": "YA"
+        },
+        {
+          "code": "1220850",
+          "areaCode": "0827",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "巴中",
+          "shortName": "BZ"
+        },
+        {
+          "code": "1220900",
+          "areaCode": "028",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "资阳",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1220950",
+          "areaCode": "0837",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "阿坝",
+          "shortName": "AB"
+        },
+        {
+          "code": "1221000",
+          "areaCode": "0836",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "甘孜",
+          "shortName": "GZ"
+        },
+        {
+          "code": "1221050",
+          "areaCode": "0834",
+          "type": "2",
+          "parentCode": "1220000",
+          "name": "凉山",
+          "shortName": "LS"
+        }
+      ]
+    },
+    {
+      "code": "1230000",
+      "areaCode": "0851",
+      "type": "1",
+      "parentCode": "",
+      "name": "贵州",
+      "shortName": "GZ",
+      "children": [{
+          "code": "1230050",
+          "areaCode": "0851",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "贵阳",
+          "shortName": "GY"
+        },
+        {
+          "code": "1230100",
+          "areaCode": "0858",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "六盘水",
+          "shortName": "LPS"
+        },
+        {
+          "code": "1230150",
+          "areaCode": "0852",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "遵义",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1230200",
+          "areaCode": "0853",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "安顺",
+          "shortName": "AS"
+        },
+        {
+          "code": "1230250",
+          "areaCode": "0856",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "铜仁",
+          "shortName": "TR"
+        },
+        {
+          "code": "1230300",
+          "areaCode": "0857",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔西",
+          "shortName": "QX"
+        },
+        {
+          "code": "1230350",
+          "areaCode": "0857",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "毕节",
+          "shortName": "BJ"
+        },
+        {
+          "code": "1230400",
+          "areaCode": "0855",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔东",
+          "shortName": "QD"
+        },
+        {
+          "code": "1230450",
+          "areaCode": "0854",
+          "type": "2",
+          "parentCode": "1230000",
+          "name": "黔南",
+          "shortName": "QN"
+        }
+      ]
+    },
+    {
+      "code": "1240000",
+      "areaCode": "0871",
+      "type": "1",
+      "parentCode": "",
+      "name": "云南",
+      "shortName": "YN",
+      "children": [{
+          "code": "1240050",
+          "areaCode": "0871",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "昆明",
+          "shortName": "KM"
+        },
+        {
+          "code": "1240100",
+          "areaCode": "0874",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "曲靖",
+          "shortName": "QJ"
+        },
+        {
+          "code": "1240150",
+          "areaCode": "0877",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "玉溪",
+          "shortName": "YX"
+        },
+        {
+          "code": "1240200",
+          "areaCode": "0875",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "保山",
+          "shortName": "BS"
+        },
+        {
+          "code": "1240250",
+          "areaCode": "0870",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "昭通",
+          "shortName": "ZT"
+        },
+        {
+          "code": "1240300",
+          "areaCode": "0888",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "丽江",
+          "shortName": "LJ"
+        },
+        {
+          "code": "1240350",
+          "areaCode": "0879",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "普洱",
+          "shortName": "PE"
+        },
+        {
+          "code": "1240400",
+          "areaCode": "0883",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "临沧",
+          "shortName": "LC"
+        },
+        {
+          "code": "1240450",
+          "areaCode": "0878",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "楚雄",
+          "shortName": "CX"
+        },
+        {
+          "code": "1240500",
+          "areaCode": "0873",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "红河",
+          "shortName": "HH"
+        },
+        {
+          "code": "1240550",
+          "areaCode": "0876",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "文山",
+          "shortName": "WS"
+        },
+        {
+          "code": "1240600",
+          "areaCode": "0691",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "西双版纳",
+          "shortName": "XSBN"
+        },
+        {
+          "code": "1240650",
+          "areaCode": "0872",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "大理",
+          "shortName": "DL"
+        },
+        {
+          "code": "1240700",
+          "areaCode": "0692",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "德宏",
+          "shortName": "DH"
+        },
+        {
+          "code": "1240750",
+          "areaCode": "0886",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "怒江",
+          "shortName": "NJ"
+        },
+        {
+          "code": "1240800",
+          "areaCode": "0887",
+          "type": "2",
+          "parentCode": "1240000",
+          "name": "迪庆",
+          "shortName": "DQ"
+        }
+      ]
+    },
+    {
+      "code": "1250000",
+      "areaCode": "0891",
+      "type": "1",
+      "parentCode": "",
+      "name": "西藏",
+      "shortName": "XZ",
+      "children": [{
+          "code": "1250050",
+          "areaCode": "0891",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "拉萨",
+          "shortName": "LS"
+        },
+        {
+          "code": "1250100",
+          "areaCode": "0895",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "昌都",
+          "shortName": "CD"
+        },
+        {
+          "code": "1250150",
+          "areaCode": "0893",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "山南",
+          "shortName": "SN"
+        },
+        {
+          "code": "1250200",
+          "areaCode": "0892",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "日喀则",
+          "shortName": "RKZ"
+        },
+        {
+          "code": "1250250",
+          "areaCode": "0896",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "那曲",
+          "shortName": "NQ"
+        },
+        {
+          "code": "1250300",
+          "areaCode": "0897",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "阿里",
+          "shortName": "AL"
+        },
+        {
+          "code": "1250350",
+          "areaCode": "0891",
+          "type": "2",
+          "parentCode": "1250000",
+          "name": "林芝",
+          "shortName": "LZ"
+        }
+      ]
+    },
+    {
+      "code": "1260000",
+      "areaCode": "029",
+      "type": "1",
+      "parentCode": "",
+      "name": "陕西",
+      "shortName": "SX",
+      "children": [{
+          "code": "1260050",
+          "areaCode": "029",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "西安",
+          "shortName": "XA"
+        },
+        {
+          "code": "1260100",
+          "areaCode": "0919",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "铜川",
+          "shortName": "TC"
+        },
+        {
+          "code": "1260150",
+          "areaCode": "0917",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "宝鸡",
+          "shortName": "BJ"
+        },
+        {
+          "code": "1260200",
+          "areaCode": "0910",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "咸阳",
+          "shortName": "XY"
+        },
+        {
+          "code": "1260250",
+          "areaCode": "0913",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "渭南",
+          "shortName": "WN"
+        },
+        {
+          "code": "1260300",
+          "areaCode": "0911",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "延安",
+          "shortName": "YA"
+        },
+        {
+          "code": "1260350",
+          "areaCode": "0916",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "汉中",
+          "shortName": "HZ"
+        },
+        {
+          "code": "1260400",
+          "areaCode": "0912",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "榆林",
+          "shortName": "YL"
+        },
+        {
+          "code": "1260450",
+          "areaCode": "0915",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "安康",
+          "shortName": "AK"
+        },
+        {
+          "code": "1260500",
+          "areaCode": "0914",
+          "type": "2",
+          "parentCode": "1260000",
+          "name": "商洛",
+          "shortName": "SL"
+        }
+      ]
+    },
+    {
+      "code": "1270000",
+      "areaCode": "0931",
+      "type": "1",
+      "parentCode": "",
+      "name": "甘肃",
+      "shortName": "GS",
+      "children": [{
+          "code": "1270050",
+          "areaCode": "0931",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "兰州",
+          "shortName": "LZ"
+        },
+        {
+          "code": "1270100",
+          "areaCode": "0937",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "嘉峪关",
+          "shortName": "JYG"
+        },
+        {
+          "code": "1270150",
+          "areaCode": "0935",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "金昌",
+          "shortName": "JC"
+        },
+        {
+          "code": "1270200",
+          "areaCode": "0943",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "白银",
+          "shortName": "BY"
+        },
+        {
+          "code": "1270250",
+          "areaCode": "0938",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "天水",
+          "shortName": "TS"
+        },
+        {
+          "code": "1270300",
+          "areaCode": "0935",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "武威",
+          "shortName": "WW"
+        },
+        {
+          "code": "1270350",
+          "areaCode": "0936",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "张掖",
+          "shortName": "ZY"
+        },
+        {
+          "code": "1270400",
+          "areaCode": "0933",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "平凉",
+          "shortName": "PL"
+        },
+        {
+          "code": "1270450",
+          "areaCode": "0937",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "酒泉",
+          "shortName": "JQ"
+        },
+        {
+          "code": "1270500",
+          "areaCode": "0934",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "庆阳",
+          "shortName": "QY"
+        },
+        {
+          "code": "1270550",
+          "areaCode": "0932",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "定西",
+          "shortName": "DX"
+        },
+        {
+          "code": "1270600",
+          "areaCode": "0939",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "陇南",
+          "shortName": "LN"
+        },
+        {
+          "code": "1270650",
+          "areaCode": "0930",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "临夏",
+          "shortName": "LX"
+        },
+        {
+          "code": "1270700",
+          "areaCode": "0941",
+          "type": "2",
+          "parentCode": "1270000",
+          "name": "甘南",
+          "shortName": "GN"
+        }
+      ]
+    },
+    {
+      "code": "1280000",
+      "areaCode": "0971",
+      "type": "1",
+      "parentCode": "",
+      "name": "青海",
+      "shortName": "QH",
+      "children": [{
+          "code": "1280050",
+          "areaCode": "0971",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "西宁",
+          "shortName": "XN"
+        },
+        {
+          "code": "1280100",
+          "areaCode": "0972",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海东",
+          "shortName": "HD"
+        },
+        {
+          "code": "1280150",
+          "areaCode": "0970",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海北",
+          "shortName": "HB"
+        },
+        {
+          "code": "1280200",
+          "areaCode": "0973",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "黄南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1280250",
+          "areaCode": "0974",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海南",
+          "shortName": "HN"
+        },
+        {
+          "code": "1280300",
+          "areaCode": "0975",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "果洛",
+          "shortName": "GL"
+        },
+        {
+          "code": "1280350",
+          "areaCode": "0976",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "玉树",
+          "shortName": "YS"
+        },
+        {
+          "code": "1280400",
+          "areaCode": "0977",
+          "type": "2",
+          "parentCode": "1280000",
+          "name": "海西",
+          "shortName": "HX"
+        }
+      ]
+    },
+    {
+      "code": "1290000",
+      "areaCode": "0951",
+      "type": "1",
+      "parentCode": "",
+      "name": "宁夏",
+      "shortName": "NX",
+      "children": [{
+          "code": "1290050",
+          "areaCode": "0951",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "银川",
+          "shortName": "YC"
+        },
+        {
+          "code": "1290100",
+          "areaCode": "0952",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "石嘴山",
+          "shortName": "SZS"
+        },
+        {
+          "code": "1290150",
+          "areaCode": "0953",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "吴忠",
+          "shortName": "WZ"
+        },
+        {
+          "code": "1290200",
+          "areaCode": "0954",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "固原",
+          "shortName": "GY"
+        },
+        {
+          "code": "1290250",
+          "areaCode": "0955",
+          "type": "2",
+          "parentCode": "1290000",
+          "name": "中卫",
+          "shortName": "ZW"
+        }
+      ]
+    },
+    {
+      "code": "1300000",
+      "areaCode": "0991",
+      "type": "1",
+      "parentCode": "",
+      "name": "新疆",
+      "shortName": "XJ",
+      "children": [{
+          "code": "1300050",
+          "areaCode": "0991",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "乌鲁木齐",
+          "shortName": "WLMQ"
+        },
+        {
+          "code": "1300100",
+          "areaCode": "0990",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "克拉玛依",
+          "shortName": "KLMY"
+        },
+        {
+          "code": "1300150",
+          "areaCode": "0995",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "吐鲁番",
+          "shortName": "TLF"
+        },
+        {
+          "code": "1300200",
+          "areaCode": "0902",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "哈密",
+          "shortName": "HM"
+        },
+        {
+          "code": "1300250",
+          "areaCode": "0994",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "昌吉",
+          "shortName": "CJ"
+        },
+        {
+          "code": "1300300",
+          "areaCode": "0909",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "博尔塔拉",
+          "shortName": "BETL"
+        },
+        {
+          "code": "1300350",
+          "areaCode": "0996",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "巴音郭楞",
+          "shortName": "BYGL"
+        },
+        {
+          "code": "1300400",
+          "areaCode": "0997",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿克苏",
+          "shortName": "AKS"
+        },
+        {
+          "code": "1300450",
+          "areaCode": "0908",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "克孜勒苏",
+          "shortName": "KZLS"
+        },
+        {
+          "code": "1300500",
+          "areaCode": "0998",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "喀什",
+          "shortName": "KS"
+        },
+        {
+          "code": "1300550",
+          "areaCode": "0903",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "和田",
+          "shortName": "HT"
+        },
+        {
+          "code": "1300600",
+          "areaCode": "0999",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "伊犁",
+          "shortName": "YL"
+        },
+        {
+          "code": "1300650",
+          "areaCode": "0901",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "塔城",
+          "shortName": "TC"
+        },
+        {
+          "code": "1300700",
+          "areaCode": "0906",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿勒泰",
+          "shortName": "ALT"
+        },
+        {
+          "code": "1300750",
+          "areaCode": "0993",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "石河子",
+          "shortName": "SHZ"
+        },
+        {
+          "code": "1300800",
+          "areaCode": "0997",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "阿拉尔",
+          "shortName": "ALE"
+        },
+        {
+          "code": "1300850",
+          "areaCode": "0998",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "图木舒克",
+          "shortName": "TMSK"
+        },
+        {
+          "code": "1300900",
+          "areaCode": "0994",
+          "type": "2",
+          "parentCode": "1300000",
+          "name": "五家渠",
+          "shortName": "WJQ"
+        }
+      ]
+    },
+    {
+      "code": "1310000",
+      "type": "1",
+      "parentCode": "",
+      "name": "海外",
+      "shortName": "HW",
+      "children": [{
+        "code": "1310000",
+        "type": "1",
+        "parentCode": "",
+        "name": "海外",
+        "shortName": "HW"
+      }]
+    },
+    {
+      "code": "1320000",
+      "areaCode": "852",
+      "type": "1",
+      "parentCode": "",
+      "name": "香港",
+      "shortName": "XG",
+      "children": [{
+        "code": "1320000",
+        "type": "1",
+        "parentCode": "",
+        "name": "香港",
+        "shortName": "XG"
+      }]
+    },
+    {
+      "code": "1330000",
+      "areaCode": "853",
+      "type": "1",
+      "parentCode": "",
+      "name": "澳门",
+      "shortName": "AM",
+      "children": [{
+        "code": "1330000",
+        "areaCode": "853",
+        "type": "1",
+        "parentCode": "",
+        "name": "澳门",
+        "shortName": "AM"
+      }]
+    },
+    {
+      "code": "1340000",
+      "type": "1",
+      "parentCode": "",
+      "name": "台湾",
+      "shortName": "TW",
+      "children": [{
+        "code": "1340000",
+        "type": "1",
+        "parentCode": "",
+        "name": "台湾",
+        "shortName": "TW"
+      }]
+    }
+  ]
+}
