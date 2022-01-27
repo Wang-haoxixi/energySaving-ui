@@ -7,10 +7,17 @@
       v-intro="'无论在哪个页面，都可使用导航栏快速到达组织赋能台'"
       v-intro-step="2"
     >
-      <el-dropdown
+      <!-- <el-dropdown
         split-button
         type="default"
         @click.stop="$openPage(`/wel/${currentMenuGroup.path}`)"
+        trigger="click"
+        @visible-change="handleLoadOrg"
+      > -->
+      <el-dropdown
+        split-button
+        type="default"
+        @click.stop="handleChangeOrgBtn()"
         trigger="click"
         @visible-change="handleLoadOrg"
       >
@@ -74,6 +81,7 @@ import { getUserHadList } from "@/api/admin/org";
 import UserWrapper from "./UserWrapper";
 import ConversationBox from "./ConversationBox/index";
 import { mapGetters, mapActions, mapMutations, mapState } from "vuex";
+import { userChangeOrg } from "@/api/admin/user";
 export default {
   props: {
     showOrgName: {
@@ -93,6 +101,13 @@ export default {
       orgList: [],
       loading: false,
     };
+  },
+  async created(){
+    const { data } = await getUserHadList();
+    this.orgList = data.map((m) => ({
+      ...m,
+      id: m.orgId,
+    }));
   },
   computed: {
     ...mapGetters(["userInfo", "currentMenuGroup"]),
@@ -121,6 +136,12 @@ export default {
     // handleEmailBox() {
     //   this.$openPage("/my/email");
     // },
+    handleChangeOrgBtn(){
+      userChangeOrg(this.userInfo.orgId).then(res=>{
+        console.log('res..', res);
+      });
+      this.$openPage(`/wel/${this.currentMenuGroup.path}`);
+    },
     async handleChangeOrg(item) {
       await this.orgChangeAction(item.id);
       this.$openPage(`/wel/${this.currentMenuGroup.path}`);
