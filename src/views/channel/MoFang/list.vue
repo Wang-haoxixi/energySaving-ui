@@ -5,13 +5,13 @@
         <div class="content-text">
           <div class="title">
             <div>
-              节能保
+              节能宝
               <strong>魔方</strong>
               <i>●</i>
-              <span>遇见节能保 预购未来</span>
+              <span>遇见节能宝 预购未来</span>
             </div>
           </div>
-          <div class="describe">争做节能保合伙人，千万宝贝大赠送</div>
+          <div class="describe">争做节能宝合伙人，千万宝贝大赠送</div>
         </div>
       </div>
     </div>

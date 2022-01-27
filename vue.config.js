@@ -32,7 +32,7 @@ module.exports = {
     // config.resolve.modules
     //   .add(path.resolve(__dirname, 'src'))
     config.plugin("html").tap(args => {
-      args[0].title = "节能保";
+      args[0].title = "节能宝";
       args[0].url = "www.woneng.net";
       args[0].cdn = cdn;
       return args;
@@ -103,7 +103,7 @@ module.exports = {
     }
   },
   pwa: {
-    name: "节能保_全域节能，科技臻善！",
+    name: "节能宝_全域节能，科技臻善！",
     themeColor: "#f74437",
     msTileColor: "#000000",
     appleMobileWebAppCapable: "yes",

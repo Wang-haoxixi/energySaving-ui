@@ -16,8 +16,8 @@ const VCODEMAXLENGTH = 4;
  */
 const INVITE_STRING_FUNC = (url: string, orgName: string) =>
   // `点击链接加入我的智慧组织“${orgName}”共同构建未来组织，推动人类进步！http://woneng.net${url}`;  // 我能
-  // `点击链接加入我的智慧组织“${orgName}”共同构建未来组织，推动人类进步！http://183.131.134.242:15986${url}`; // 节能保 - 测试站
-  `点击链接加入我的智慧组织“${orgName}”共同构建未来组织，推动人类进步！https://admin.jienengbao.top${url}`; // 节能保 - 正式站
+  // `点击链接加入我的智慧组织“${orgName}”共同构建未来组织，推动人类进步！http://183.131.134.242:15986${url}`; // 节能宝 - 测试站
+  `点击链接加入我的智慧组织“${orgName}”共同构建未来组织，推动人类进步！https://admin.jienengbao.top${url}`; // 节能宝 - 正式站
 
 const GLOBAL_SEARCH_OPTIONS = [
   { name: "找人", value: "1", label: "user", count: 0 },

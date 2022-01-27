@@ -4,7 +4,7 @@
       <div class="banner-content">
         <div class="banner-content-txt">
           <div class="title">
-            <span>节能保</span>
+            <span>节能宝</span>
             <span>活动</span>
           </div>
           <p>以组织为核心，用协同社交的新方式，构建全新服务交流体验</p>

@@ -15,7 +15,7 @@
             {{item.teamNumber}}人加入
           </div>
         </div>
-        <div class="footer">来自：{{item.orgName || '节能保官方'}}</div>
+        <div class="footer">来自：{{item.orgName || '节能宝官方'}}</div>
       </div>
     </div>
     <div class="none" v-else>暂无数据</div>

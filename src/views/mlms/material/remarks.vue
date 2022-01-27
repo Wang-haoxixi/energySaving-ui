@@ -9,7 +9,7 @@
       <span
         @click="$openPage(`/channel/styles/user/${formData.createBy}/index`)"
       >{{formData.realName}}</span>
-      <p>发布于节能保平台，未经许可，禁止转载。</p>
+      <p>发布于节能宝平台，未经许可，禁止转载。</p>
     </div>
     <!-- 转载 -->
     <div
@@ -22,7 +22,7 @@
       <span
         @click="$openPage(`/channel/styles/user/${formData.createBy}/index`)"
       >{{formData.realName}}</span>
-      <p>转载至节能保平台，未经许可，禁止转载。如涉及作品内容、版权和其它问题，请在30日内与本平台联系，我们将在第一时间处理。</p>
+      <p>转载至节能宝平台，未经许可，禁止转载。如涉及作品内容、版权和其它问题，请在30日内与本平台联系，我们将在第一时间处理。</p>
     </div>
     <!-- 二次修改原创内容 -->
     <div
@@ -30,7 +30,7 @@
       v-if="formData.isOriginal === '1' && formData.beenModifiedTwice === '2'"
     >
       <span v-if="formData.originalLink" @click="handleUrlPush">原文</span>
-      <p>由{{formData.oldCreateUploadName}}发布于节能保平台，由</p>
+      <p>由{{formData.oldCreateUploadName}}发布于节能宝平台，由</p>
       <span
         @click="$openPage(`/channel/styles/user/${formData.createBy}/index`)"
       >{{formData.realName}}</span>
@@ -42,7 +42,7 @@
       v-if="formData.isOriginal === '1' && formData.beenModifiedTwice === '1'"
     >
       <span v-if="formData.originalLink" @click="handleUrlPush">原文</span>
-      <p>由{{formData.oldCreateUploadName}}转载至节能保平台，由</p>
+      <p>由{{formData.oldCreateUploadName}}转载至节能宝平台，由</p>
       <span
         @click="$openPage(`/channel/styles/user/${formData.createBy}/index`)"
       >{{formData.realName}}</span>

@@ -21,7 +21,7 @@
         <div class="read">
           <el-checkbox v-model="checked">
             已阅读并同意
-            <b class="link" @click="$openWindow('/protocol/master_rule')">《节能保平台负责人规则》</b>
+            <b class="link" @click="$openWindow('/protocol/master_rule')">《节能宝平台负责人规则》</b>
           </el-checkbox>
         </div>
         <div class="note">
@@ -48,7 +48,7 @@
         </div>
         <div class="content">
           <span class="iep-red">宝贝</span>
-          是节能保平台中定义资源价值的单位，用户（用户）可以在平台内通过各种方式获得的虚拟奖励。宝贝可以作为支付介质在平台中交换信息与资源，也是用户作为平台虚拟股东的数字凭证。宝贝采用区块链技术进行安全保障与支撑。
+          是节能宝平台中定义资源价值的单位，用户（用户）可以在平台内通过各种方式获得的虚拟奖励。宝贝可以作为支付介质在平台中交换信息与资源，也是用户作为平台虚拟股东的数字凭证。宝贝采用区块链技术进行安全保障与支撑。
         </div>
       </div>
       <el-button slot="button" type="primary" class="iep-btn-submit" @click="handleNext()">确 认</el-button>
@@ -99,7 +99,7 @@ export default {
     },
     async submitForm() {
       if (!this.checked) {
-        this.$message("请先勾选《节能保平台负责人规则》");
+        this.$message("请先勾选《节能宝平台负责人规则》");
         return;
       }
       const { code, data } = await postOrg(this.form);

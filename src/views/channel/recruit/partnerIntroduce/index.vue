@@ -4,7 +4,7 @@
       <div class="introduce-content">
         <div class="banner-left">
           <div class="banner-title">
-            <div class="banner-title-first">节能保</div>
+            <div class="banner-title-first">节能宝</div>
             <div class="banner-title-seacond">五位一体，核心优势，定义未来等数据资产运营能力</div>
           </div>
           <div
@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="introduce-head">
-      <div class="title">节能保，五新价值体系</div>
+      <div class="title">节能宝，五新价值体系</div>
       <div class="system-list">
         <div
           class="system-item"
@@ -33,7 +33,7 @@
       </div>
     </div>
     <div class="introduce-word">
-      <div class="title">加入节能保，成为合伙人</div>
+      <div class="title">加入节能宝，成为合伙人</div>
       <div class="join-table">
         <div class="table-span" v-for="(item, index) in introduceList.partherList" :key="index">
           <div class="first">{{item.name}}</div>

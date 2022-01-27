@@ -3,13 +3,13 @@
     <div class="banner-con">
       <div class="banner-plain">
         <div class="banner-title">
-          节能保
+          节能宝
           <strong>考试</strong>
           <strong class="sep"></strong>
           <span class="right-txt">数据思维赋能考试</span>
         </div>
         <div class="banner-txt">
-          <span>数字人生尽在节能保</span>
+          <span>数字人生尽在节能宝</span>
           <span>参与考试赢取未来</span>
         </div>
       </div>

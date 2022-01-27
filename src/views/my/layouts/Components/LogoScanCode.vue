@@ -1,6 +1,6 @@
 <template>
   <div style="width: 100%;">
-    <div class="title">节能保手机端</div>
+    <div class="title">节能宝手机端</div>
     <div class="desc">智慧组织 千般赋能</div>
     <!-- <el-popover placement="right" width="240" trigger="hover">
       <div class="app-code">
@@ -8,12 +8,12 @@
           <iep-img src="http://woneng-oss.oss-cn-hangzhou.aliyuncs.com/sys/app_code.jpg"></iep-img>
         </div>
         <div class="txt">
-          <span>节能保APP</span>
+          <span>节能宝APP</span>
           <span>扫码下载</span>
         </div>
       </div>
       <div class="code-phone" slot="reference">
-        <i class="el-icon-woneng-APP-sx"></i>节能保APP下载
+        <i class="el-icon-woneng-APP-sx"></i>节能宝APP下载
       </div>
     </el-popover> -->
     <el-popover placement="right" width="280" trigger="hover">
@@ -23,12 +23,12 @@
           <iep-img src="https://woneng-oss.oss-cn-hangzhou.aliyuncs.com/wxapp/EnergySaving/energy_mini_code.jpg"></iep-img>
         </div>
         <div class="txt">
-          <span>节能保小程序</span>
+          <span>节能宝小程序</span>
           <span>扫码打开</span>
         </div>
       </div>
       <div class="code-phone" slot="reference">
-        <i class="el-icon-woneng-xiaochengxu-sx"></i>节能保小程序
+        <i class="el-icon-woneng-xiaochengxu-sx"></i>节能宝小程序
       </div>
     </el-popover>
   </div>

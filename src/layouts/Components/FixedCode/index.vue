@@ -1,7 +1,7 @@
 <template>
   <el-popover placement="left" width="300" trigger="hover">
     <div class="app-code">
-      <!-- <span>手机节能保</span> -->
+      <!-- <span>手机节能宝</span> -->
       <div class="app-code-box">
         <!-- <div class="app-code-item">
           <iep-img
@@ -10,7 +10,7 @@
           ></iep-img>
           <span> -->
             <!-- <i class="el-icon-woneng-AI"></i> -->
-            <!-- 节能保APP下载
+            <!-- 节能宝APP下载
           </span>
         </div> -->
         <div class="app-code-item">
@@ -24,7 +24,7 @@
           ></iep-img>
           <span>
             <!-- <i class="el-icon-woneng-pingguo"></i> -->
-            节能保小程序
+            节能宝小程序
           </span>
         </div>
       </div>

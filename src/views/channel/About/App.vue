@@ -7,7 +7,7 @@
       </div>
       <div class="txt">
         <p>
-          <strong>节能保</strong>，全域节能，科技臻善！！
+          <strong>节能宝</strong>，全域节能，科技臻善！！
         </p>
         <div class="code">
           <iep-img src="/img/about/app_code.png"></iep-img>

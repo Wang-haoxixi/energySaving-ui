@@ -5,7 +5,7 @@
         <div class="header-left">
           <div class="menu-logo" @click="$openPage('/')" title="个人中心">
             <img src="/img/icons/logo-h180.png" alt="icon" />
-            <span>节能保</span>
+            <span>节能宝</span>
           </div>
         </div>
         <div class="header-center">

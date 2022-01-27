@@ -103,7 +103,7 @@ import { putQuestion } from "@/api/ims/manualCustomer";
 import artificial from "./artificial";
 
 const defaultQuestion = [
-  { desc: "我要加入节能保" },
+  { desc: "我要加入节能宝" },
   { desc: "拓展人脉相关问题" },
   { desc: "我要发布生态说说" },
   { desc: "怎么创建组织" },
@@ -112,7 +112,7 @@ const defaultQuestion = [
   { desc: "如何发布组织公告" },
   { desc: "如何成为星级合伙人" },
   { desc: "怎么发宝贝红包" },
-  { desc: "节能保平台价值如何产生" },
+  { desc: "节能宝平台价值如何产生" },
 ];
 
 export default {

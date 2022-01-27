@@ -9,7 +9,7 @@
       />
       <div class="long-img" v-else @click="$openPage('/')">
         <img src="/img/icons/logo-h180.png" alt="icon" />
-        <span>节能保</span>
+        <span>节能宝</span>
       </div>
     </div>
     <el-scrollbar style="height:calc(100vh - 64px);" native>

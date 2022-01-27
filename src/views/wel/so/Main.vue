@@ -1,6 +1,6 @@
 <template>
   <div class="main-container">
-    <div class="so-header" v-intro="'恭喜你加入节能保的第一个智慧组织！（简称组织）下面就来了解一下组织赋能台的使用方法'" v-intro-step="1">
+    <div class="so-header" v-intro="'恭喜你加入节能宝的第一个智慧组织！（简称组织）下面就来了解一下组织赋能台的使用方法'" v-intro-step="1">
       <Header :value="form"></Header>
     </div>
     <div class="notice-box" v-intro="'这里是组织的通知栏，重要消息不怕错过'" v-intro-step="3">

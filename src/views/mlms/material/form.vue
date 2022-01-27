@@ -120,7 +120,7 @@
       </el-form-item>
       <el-form-item label>
         <el-checkbox v-model="isAgree">同意</el-checkbox>
-        <span class="notice" @click.stop="() => {$openPage('/my/index/material/5', 2)}">《节能保材料协议》</span>
+        <span class="notice" @click.stop="() => {$openPage('/my/index/material/5', 2)}">《节能宝材料协议》</span>
       </el-form-item>
     </el-form>
 
@@ -229,7 +229,7 @@ export default {
             tag: data.tag || [],
             attachMultiFileList: data.attachMultiFileList,
             isOriginal: "1",
-            platformSource: "节能保平台",
+            platformSource: "节能宝平台",
             originalLink: `${window.location.protocol}//${window.location.host}/channel/material/detail/${data.id}`,
             createUser: this.userInfo.realName,
             beenModifiedTwice: data.isOriginal === "0" ? "1" : "2",

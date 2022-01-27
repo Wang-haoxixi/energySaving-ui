@@ -38,7 +38,7 @@ const toVoForm = (row: ActivityDTO) => {
 const publishToLobbyDict = [
   {
     value: "1",
-    label: "公开发布，希望节能保平台协助推广，需审核"
+    label: "公开发布，希望节能宝平台协助推广，需审核"
   },
   {
     value: "0",

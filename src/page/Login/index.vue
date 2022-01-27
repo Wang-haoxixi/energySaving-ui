@@ -43,7 +43,7 @@
         <el-button v-if="form.type==='0'" type="text" @click="handlePassword()">手机登录</el-button>
       </div>
     </div>
-    <!-- <div class="page-account-txt">点击下一步代表你已阅读并同意节能保<strong>服务协议</strong>和<strong>隐私政策</strong></div> -->
+    <!-- <div class="page-account-txt">点击下一步代表你已阅读并同意节能宝<strong>服务协议</strong>和<strong>隐私政策</strong></div> -->
   </account-layout>
 </template>
 <script>

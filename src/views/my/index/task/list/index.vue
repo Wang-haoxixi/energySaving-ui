@@ -91,7 +91,7 @@
             </div>
             <div class="bottom">{{item.description}}</div>
           </div>
-          <div class="org grid">{{item.orgName || "节能保官方"}}</div>
+          <div class="org grid">{{item.orgName || "节能宝官方"}}</div>
           <div
             class="urgency grid"
             :class="urgencyObj[item.urgency].color"

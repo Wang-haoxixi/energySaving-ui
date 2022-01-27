@@ -25,8 +25,8 @@
       <div class="btn-box" @click="$openPage('/channel/partner_introduce')">
         <i class="icon-btn el-icon-woneng-hehuorenguanli"></i>
         <div class="text">
-          <div class="title">节能保合伙人</div>
-          <div class="desc">成为节能保百万合伙人</div>
+          <div class="title">节能宝合伙人</div>
+          <div class="desc">成为节能宝百万合伙人</div>
         </div>
       </div>
       <!-- 客服框组件 -->

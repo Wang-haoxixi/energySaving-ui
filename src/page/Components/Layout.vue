@@ -6,7 +6,7 @@
           <div class="page-account-top">
             <div class="page-account-top-logo">
               <iep-img class="logo-img" src="/img/icons/logo-h180.png" alt="logo"></iep-img>
-              <div class="logo-name">节能保</div>
+              <div class="logo-name">节能宝</div>
               <div class="logo-desc">全域节能，科技臻善！</div>
             </div>
           </div>

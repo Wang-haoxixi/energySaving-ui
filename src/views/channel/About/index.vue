@@ -4,7 +4,7 @@
       <div class="banner-box">
         <div class="banner-plain">
           <div class="banner-title">
-            <p class="big-title">节能保，全域节能，科技臻善！</p>
+            <p class="big-title">节能宝，全域节能，科技臻善！</p>
             <p>任务智能协作和组织智慧创新平台</p>
             <el-button class="iep-btn-long-round" type="primary" @click="$openPage('/')">立即体验</el-button>
           </div>

@@ -3,7 +3,7 @@
     <create-org-layout>
       <div slot="header">
         <h4 class="title">
-          <span class="iep-red">节能保</span>邀请
+          <span class="iep-red">节能宝</span>邀请
         </h4>
       </div>
       <div class="org-wrapper">
@@ -17,7 +17,7 @@
           <iep-img class="user-avatar" :resizeOpt="{l:40}" :src="form.inviterAvatar"></iep-img>
         </iep-popover-user-card>
         <div>
-          <span class="username">{{form.inviterName}}</span>邀请你加入节能保
+          <span class="username">{{form.inviterName}}</span>邀请你加入节能宝
         </div>
       </div>
       <el-form class="form-wrapper" :model="form" ref="form">

@@ -62,7 +62,7 @@
       </el-form-item>-->
       <el-form-item label>
         <el-checkbox v-model="isAgree">同意</el-checkbox>
-        <span class="notice" @click.stop="() => {$openPage('/my/index/material/5', 2)}">《节能保材料协议》</span>
+        <span class="notice" @click.stop="() => {$openPage('/my/index/material/5', 2)}">《节能宝材料协议》</span>
       </el-form-item>
       <!-- <el-form-item label="附件：">
         <iep-upload v-model="formData.attachMultiFileList" :limit="1" action="/api/admin/file/upload"></iep-upload>

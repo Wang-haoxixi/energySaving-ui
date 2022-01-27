@@ -38,7 +38,7 @@
         <el-tooltip
           class="tooltip"
           effect="dark"
-          content="红度等级反映用户基于节能保平台的活跃程度与数字化技能水平，请输入您期望的最低红度等级"
+          content="红度等级反映用户基于节能宝平台的活跃程度与数字化技能水平，请输入您期望的最低红度等级"
           placement="top-start"
         >
           <i class="el-icon-woneng-zhushishixin"></i>

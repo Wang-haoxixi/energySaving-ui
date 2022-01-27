@@ -5,13 +5,13 @@
         <div class="content-text" @click="handleOpenVip()">
           <div class="title">
             <div>
-              节能保
+              节能宝
               <strong>魔方</strong>
               <i class="el-icon-woneng-dian"></i>
-              <span>遇见节能保 预购未来</span>
+              <span>遇见节能宝 预购未来</span>
             </div>
           </div>
-          <div class="describe">争做节能保合伙人，千万宝贝大赠送</div>
+          <div class="describe">争做节能宝合伙人，千万宝贝大赠送</div>
         </div>
       </div>
       <div class="proxy-float">
@@ -23,7 +23,7 @@
           ></IepIcon>
           <div class="float-right">
             <span>产品发布</span>
-            <span>发布产品至节能保</span>
+            <span>发布产品至节能宝</span>
           </div>
         </div>
         <div class="proxy-float-box" @click="$openPage('/cpms/product_edit/0?type=0')">
@@ -56,7 +56,7 @@
           ></IepIcon>
           <div class="float-right">
             <span>申请合伙</span>
-            <span>加盟节能保合伙人</span>
+            <span>加盟节能宝合伙人</span>
           </div>
         </div>
       </div>

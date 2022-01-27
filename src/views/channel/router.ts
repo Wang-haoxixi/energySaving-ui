@@ -95,7 +95,7 @@ export default [
       },
       {
         path: "about",
-        name: "关于节能保",
+        name: "关于节能宝",
         component: () => import("@/views/channel/About/index.vue")
       },
       {

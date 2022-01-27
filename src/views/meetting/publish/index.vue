@@ -25,7 +25,7 @@
       <iep-form-item :verifValue="form.poster" label-name="活动海报" prop="poster">
         <IepUploadAvatar
           v-model="form.poster"
-          tip="精致的海报让活动锦上添花，更便于传播与吸引报名，也将提升在节能保平台的推荐机会。"
+          tip="精致的海报让活动锦上添花，更便于传播与吸引报名，也将提升在节能宝平台的推荐机会。"
           :width="400"
           :height="240"
           :imgTip="true"

@@ -29,7 +29,7 @@
     <div
       class="iep-font-color-3"
       style="padding-left: 20px;padding-top: 70px;line-height: 24px;"
-    >精致的海报让活动锦上添花，更便于传播与吸引报名，也将提升在节能保平台的推荐机会。</div>
+    >精致的海报让活动锦上添花，更便于传播与吸引报名，也将提升在节能宝平台的推荐机会。</div>
   </div>
 </template>
 <script>

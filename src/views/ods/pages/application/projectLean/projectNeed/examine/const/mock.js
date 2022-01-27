@@ -82,7 +82,7 @@ export const mockData = {
       {
         projectType: "新建",
         deptId: "市教育局",
-        projectName: "节能保项目",
+        projectName: "节能宝项目",
         person1: "顾芳芳",
         person2: "张世明",
         money: "2000",

@@ -71,7 +71,7 @@
                   <div class="userName">{{item.userName}}</div>
                 </div>
                 <!-- 组织 -->
-                <div class="block orgName nowrap">来自：{{item.orgName || "节能保官方"}}</div>
+                <div class="block orgName nowrap">来自：{{item.orgName || "节能宝官方"}}</div>
               </div>
             </div>
             <div class="button">

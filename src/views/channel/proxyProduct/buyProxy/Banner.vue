@@ -1,7 +1,7 @@
 <template>
   <div class="banner">
     <div class="banner-txt">
-      <span class="title">加盟节能保 无所不能</span>
+      <span class="title">加盟节能宝 无所不能</span>
       <p>一站式数字化转型服务平台，模块定制化合伙人服务</p>
     </div>
   </div>

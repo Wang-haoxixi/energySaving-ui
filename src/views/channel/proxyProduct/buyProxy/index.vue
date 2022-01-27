@@ -35,7 +35,7 @@
     </div>
     <div class="box-bottom">
       <h4>支付升级</h4>
-      <span>合伙人升级请扫码支付，支付时请备注您的节能保账号</span>
+      <span>合伙人升级请扫码支付，支付时请备注您的节能宝账号</span>
       <div class="box-bottom-code">
         <div>
           <iep-img src="/img/front/wxzf.jpg"></iep-img>
@@ -86,7 +86,7 @@ export default {
         {
           img: "/img/proxy/advantage-five.png",
           name: "营销支持",
-          desc: "官方培训考试，节能保生态圈活动，峰会活动嘉宾",
+          desc: "官方培训考试，节能宝生态圈活动，峰会活动嘉宾",
         },
         {
           img: "/img/proxy/advantage-six.png",

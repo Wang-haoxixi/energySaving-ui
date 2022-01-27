@@ -51,21 +51,21 @@ export default [
       {
         //  /protocol/service_agreement
         path: "service_agreement",
-        name: "节能保平台用户服务协议",
+        name: "节能宝平台用户服务协议",
         meta: noAuthMeta,
         component: () => import("@/page/protocol/service_agreement.vue"),
       },
       {
         //  /protocol/master_rule
         path: "master_rule",
-        name: "节能保平台负责人规则",
+        name: "节能宝平台负责人规则",
         meta: noAuthMeta,
         component: () => import("@/page/protocol/master_rule.vue"),
       },
       {
         //  /protocol/privacy_policy
         path: "privacy_policy",
-        name: "《节能保隐私条款》",
+        name: "《节能宝隐私条款》",
         meta: noAuthMeta,
         component: () => import("@/page/protocol/privacy_policy.vue"),
       },

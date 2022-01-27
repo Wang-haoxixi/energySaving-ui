@@ -9,7 +9,7 @@
       />
       <div class="long-img" v-else @click="$openPage('/ods')">
         <img src="/img/icons/logo-h180.png" alt="icon" />
-        <span style="font-size: 18px;white-space:nowrap;">{{title || '节能保ODS'}}</span>
+        <span style="font-size: 18px;white-space:nowrap;">{{title || '节能宝ODS'}}</span>
       </div>
     </div>
     <el-scrollbar style="height:calc(100vh - 64px);" native>
@@ -41,7 +41,7 @@ export default {
     return {
       menuTree: [],
       plainId: 1,
-      title: "节能保ODS",
+      title: "节能宝ODS",
     };
   },
   components: {

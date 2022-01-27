@@ -2,7 +2,7 @@
   <div class="footer-box">
     <div class="context">
       <div class="text">
-        <a href="javascript:void(0);" @click.prevent="$openPage('/channel/about')">关于节能保</a>
+        <a href="javascript:void(0);" @click.prevent="$openPage('/channel/about')">关于节能宝</a>
         <a href="javascript:void(0);" @click.prevent="$openPage('/protocol/privacy_policy')">隐私政策和条款</a>
         <a href="javascript:void(0);" @click.prevent="$openPage('/channel/nengbar')">宝贝激励</a>
         <span>

@@ -1,6 +1,6 @@
 <template>
   <account-layout>
-    <p class="title">注册节能保</p>
+    <p class="title">注册节能宝</p>
     <el-form class="iep-form-detail-block" :rules="rules" ref="form" :model="form">
       <el-form-item prop="mobile">
         <iep-ant-input
