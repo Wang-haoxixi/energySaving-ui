@@ -496,7 +496,7 @@ export default {
             obj.examAnswerVOList.push({
               ...item,
               isChecked:
-                item.userAnswer && item.userAnswer != "[]" ? true : false,
+                item.userAnswer && item.userAnswer != '[""]' ? true : false,
             });
           }
         }
